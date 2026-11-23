@@ -1,0 +1,231 @@
+{
+  "note": "Computed from the SYNTHETIC demonstration seed with raw SQL; not real TSA data.",
+  "seed_content_sha256": "927799bcdd547d2a7984da5f1d6aac0686d4edcf7741a6c8c9f92e7ce60ed5d5",
+  "cases": {
+    "adversarial-01": {
+      "value": 1781330,
+      "sql": "SELECT national_throughput FROM national_daily_baseline WHERE date = ?",
+      "params": [
+        "2026-11-10"
+      ]
+    },
+    "adversarial-02": {
+      "value": 29.22,
+      "sql": "SELECT p95_wait_minutes FROM checkpoint_wait_times WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-11-11",
+        9,
+        "LAX",
+        "North",
+        "PreCheck"
+      ]
+    },
+    "aggregation-01": {
+      "value": 4,
+      "sql": "SELECT COUNT(DISTINCT modset_id) FROM customer_throughput WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-11-05",
+        12,
+        "LAX",
+        "South",
+        "Standard"
+      ]
+    },
+    "aggregation-02": {
+      "value": 97,
+      "sql": "SELECT SUM(modsets) FROM ( SELECT date, hour, airport_code, checkpoint_id, screening_type, SUM(passenger_throughput) AS pax, COUNT(DISTINCT modset_id) AS modsets FROM customer_throughput GROUP BY date, hour, airport_code, checkpoint_id, screening_type ) WHERE date = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-11-01",
+        "DCA",
+        "North",
+        "Standard"
+      ]
+    },
+    "aggregation-03": {
+      "value": 14718,
+      "sql": "SELECT SUM(passenger_throughput) FROM customer_throughput WHERE date = ? AND airport_code = ?",
+      "params": [
+        "2026-11-08",
+        "IAD"
+      ]
+    },
+    "aggregation-04": {
+      "value": 11.075,
+      "sql": "SELECT AVG(p95_wait_minutes) FROM checkpoint_wait_times WHERE date BETWEEN ? AND ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-11-09",
+        "2026-11-15",
+        "BWI",
+        "Checkpoint B",
+        "PreCheck"
+      ]
+    },
+    "aggregation-05": {
+      "value": 72,
+      "sql": "SELECT COUNT(*) FROM checkpoint_wait_times WHERE date = ? AND airport_code = ? AND max_wait_minutes > 15",
+      "params": [
+        "2026-11-05",
+        "ATL"
+      ]
+    },
+    "aggregation-06": {
+      "value": 2005857,
+      "sql": "SELECT national_throughput FROM national_daily_baseline WHERE date = ?",
+      "params": [
+        "2026-11-12"
+      ]
+    },
+    "comparison-01": {
+      "value": 0.099069,
+      "sql": "SELECT 100.0 * (national_throughput - prior_year_same_weekday_throughput) / prior_year_same_weekday_throughput FROM national_daily_baseline WHERE date = ?",
+      "params": [
+        "2026-11-10"
+      ]
+    },
+    "comparison-02": {
+      "value": -0.568579,
+      "sql": "SELECT 100.0 * (b.pax - a.pax) / a.pax FROM (SELECT SUM(passenger_throughput) AS pax FROM customer_throughput WHERE date = ? AND airport_code = ?) AS a, (SELECT SUM(passenger_throughput) AS pax FROM customer_throughput WHERE date = ? AND airport_code = ?) AS b",
+      "params": [
+        "2026-11-02",
+        "ATL",
+        "2026-11-09",
+        "ATL"
+      ]
+    },
+    "comparison-03": {
+      "value": "ATL",
+      "sql": "SELECT airport_code FROM customer_throughput GROUP BY airport_code ORDER BY SUM(passenger_throughput) DESC LIMIT 1",
+      "params": []
+    },
+    "comparison-04": {
+      "value": 1.9475,
+      "sql": "SELECT (SELECT AVG(p95_wait_minutes) FROM checkpoint_wait_times WHERE date BETWEEN ?1 AND ?2 AND airport_code = ?3 AND checkpoint_id = ?4 AND screening_type = 'Standard') - (SELECT AVG(p95_wait_minutes) FROM checkpoint_wait_times WHERE date BETWEEN ?1 AND ?2 AND airport_code = ?3 AND checkpoint_id = ?4 AND screening_type = 'PreCheck')",
+      "params": [
+        "2026-11-09",
+        "2026-11-15",
+        "DCA",
+        "South"
+      ]
+    },
+    "join-grain-01": {
+      "value": 71.0,
+      "sql": "SELECT CAST(pax AS REAL) / modsets FROM ( SELECT date, hour, airport_code, checkpoint_id, screening_type, SUM(passenger_throughput) AS pax, COUNT(DISTINCT modset_id) AS modsets FROM customer_throughput GROUP BY date, hour, airport_code, checkpoint_id, screening_type ) WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-10-28",
+        7,
+        "ATL",
+        "Checkpoint B",
+        "Standard"
+      ]
+    },
+    "join-grain-02": {
+      "value": 358.01,
+      "sql": "SELECT AVG(t.pax) FROM ( SELECT date, hour, airport_code, checkpoint_id, screening_type, SUM(passenger_throughput) AS pax, COUNT(DISTINCT modset_id) AS modsets FROM customer_throughput GROUP BY date, hour, airport_code, checkpoint_id, screening_type ) AS t JOIN checkpoint_wait_times AS w ON t.date = w.date AND t.hour = w.hour AND t.airport_code = w.airport_code AND t.checkpoint_id = w.checkpoint_id AND t.screening_type = w.screening_type WHERE t.date BETWEEN ? AND ? AND t.airport_code = ? AND t.checkpoint_id = ? AND t.screening_type = ? AND w.p95_wait_minutes > 20",
+      "params": [
+        "2026-11-09",
+        "2026-11-15",
+        "LAX",
+        "North",
+        "Standard"
+      ]
+    },
+    "join-grain-03": {
+      "value": 2,
+      "sql": "SELECT COUNT(*) FROM checkpoint_wait_times WHERE date = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ? AND max_wait_minutes > 30",
+      "params": [
+        "2026-11-03",
+        "ORD",
+        "South",
+        "Standard"
+      ]
+    },
+    "lookup-01": {
+      "value": 118.4,
+      "sql": "SELECT p95_wait_minutes FROM checkpoint_wait_times WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-11-02",
+        17,
+        "ATL",
+        "Checkpoint A",
+        "Standard"
+      ]
+    },
+    "lookup-02": {
+      "value": 222,
+      "sql": "SELECT SUM(passenger_throughput) FROM customer_throughput WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-10-25",
+        8,
+        "ORD",
+        "North",
+        "PreCheck"
+      ]
+    },
+    "lookup-03": {
+      "value": 15.55,
+      "sql": "SELECT max_wait_minutes FROM checkpoint_wait_times WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "2026-11-14",
+        16,
+        "BWI",
+        "Checkpoint A",
+        "Standard"
+      ]
+    },
+    "lookup-04": {
+      "value": 4,
+      "sql": "SELECT COUNT(DISTINCT modset_id) FROM customer_throughput WHERE date = ? AND hour = ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ? AND machine_type = 'AIT'",
+      "params": [
+        "2026-10-30",
+        18,
+        "IAD",
+        "Checkpoint B",
+        "Standard"
+      ]
+    },
+    "lookup-05": {
+      "value": 30,
+      "sql": "SELECT COUNT(DISTINCT date) FROM customer_throughput",
+      "params": []
+    },
+    "staffing-01": {
+      "installed_modsets": 5,
+      "sql": "SELECT COUNT(DISTINCT modset_id) FROM customer_throughput WHERE airport_code = ? AND checkpoint_id = ? AND screening_type = ?",
+      "params": [
+        "ATL",
+        "Checkpoint A",
+        "Standard"
+      ],
+      "source": "distinct modset_ids the seed uses for ATL / Checkpoint A / Standard (Standard and PreCheck never share a modset)"
+    },
+    "staffing-02": {
+      "source": "property-only case; no numeric reference"
+    },
+    "staffing-03": {
+      "value": 337,
+      "sql": "SELECT COUNT(*) FROM checkpoint_wait_times WHERE date BETWEEN ? AND ? AND airport_code = ? AND p95_wait_minutes > 30",
+      "params": [
+        "2026-11-09",
+        "2026-11-15",
+        "LAX"
+      ]
+    },
+    "staffing-04": {
+      "value": 2,
+      "sql": "SELECT COUNT(*) FROM checkpoint_wait_times WHERE date BETWEEN ? AND ? AND airport_code = ? AND checkpoint_id = ? AND screening_type = ? AND p95_wait_minutes > 15",
+      "params": [
+        "2026-11-01",
+        "2026-11-07",
+        "DCA",
+        "North",
+        "PreCheck"
+      ]
+    },
+    "staffing-05": {
+      "minimum_staff_needed": 10.35,
+      "available_staff": 6,
+      "constraint_binding": true,
+      "source": "staffing_rules.csv Standard rows: 3 added modsets x min(staff_per_modset x relief_factor)"
+    }
+  }
+}

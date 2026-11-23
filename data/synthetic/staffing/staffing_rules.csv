@@ -1,0 +1,4 @@
+machine_type,screening_type,assumed_capacity_pax_per_hour,staff_per_modset,relief_factor
+AIT,Standard,170.0,4,1.15
+WTMD,Standard,140.0,3,1.15
+WTMD,PreCheck,230.0,3,1.15

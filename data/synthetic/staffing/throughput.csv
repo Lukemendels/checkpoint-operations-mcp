@@ -1,0 +1,2364 @@
+date,hour,airport_code,airport_category,checkpoint_id,modset_id,machine_type,screening_type,passenger_throughput,active_modsets
+2026-10-05,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,78,1
+2026-10-05,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,42,1
+2026-10-05,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,135,2
+2026-10-05,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,135,2
+2026-10-05,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,145,1
+2026-10-05,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,125,3
+2026-10-05,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,125,3
+2026-10-05,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,125,3
+2026-10-05,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,101,2
+2026-10-05,6,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,101,2
+2026-10-05,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,114,3
+2026-10-05,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,114,3
+2026-10-05,7,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,114,3
+2026-10-05,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,92,2
+2026-10-05,7,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,92,2
+2026-10-05,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,116,2
+2026-10-05,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,116,2
+2026-10-05,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,125,1
+2026-10-05,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,82,2
+2026-10-05,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,82,2
+2026-10-05,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,88,1
+2026-10-05,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,90,2
+2026-10-05,10,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,90,2
+2026-10-05,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,97,1
+2026-10-05,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,96,2
+2026-10-05,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,96,2
+2026-10-05,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,103,1
+2026-10-05,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,104,2
+2026-10-05,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,104,2
+2026-10-05,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,112,1
+2026-10-05,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,169,1
+2026-10-05,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,100,1
+2026-10-05,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,120,2
+2026-10-05,14,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,120,2
+2026-10-05,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,129,1
+2026-10-05,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,159,2
+2026-10-05,15,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,159,2
+2026-10-05,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,171,1
+2026-10-05,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,99,3
+2026-10-05,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,99,3
+2026-10-05,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,99,3
+2026-10-05,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,160,1
+2026-10-05,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,94,3
+2026-10-05,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,94,3
+2026-10-05,17,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,94,3
+2026-10-05,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,151,1
+2026-10-05,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,87,3
+2026-10-05,18,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,87,3
+2026-10-05,18,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,87,3
+2026-10-05,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,141,1
+2026-10-05,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,97,2
+2026-10-05,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,97,2
+2026-10-05,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,105,1
+2026-10-05,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,119,1
+2026-10-05,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,64,1
+2026-10-05,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,93,1
+2026-10-05,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,50,1
+2026-10-05,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,54,1
+2026-10-05,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,29,1
+2026-10-05,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,57,1
+2026-10-05,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,31,1
+2026-10-05,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,119,2
+2026-10-05,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,119,2
+2026-10-05,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,129,1
+2026-10-05,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,93,3
+2026-10-05,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,93,3
+2026-10-05,6,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,93,3
+2026-10-05,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,151,1
+2026-10-05,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,124,2
+2026-10-05,7,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,124,2
+2026-10-05,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,133,1
+2026-10-05,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,99,2
+2026-10-05,8,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,99,2
+2026-10-05,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,107,1
+2026-10-05,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,74,2
+2026-10-05,9,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,74,2
+2026-10-05,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,79,1
+2026-10-05,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,127,1
+2026-10-05,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,68,1
+2026-10-05,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,70,2
+2026-10-05,11,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,70,2
+2026-10-05,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,76,1
+2026-10-05,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,76,2
+2026-10-05,12,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,76,2
+2026-10-05,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,81,1
+2026-10-05,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,2
+2026-10-05,13,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,67,2
+2026-10-05,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,73,1
+2026-10-05,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,79,2
+2026-10-05,14,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,79,2
+2026-10-05,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,85,1
+2026-10-05,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,109,2
+2026-10-05,15,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,109,2
+2026-10-05,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,118,1
+2026-10-05,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,88,3
+2026-10-05,16,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,88,3
+2026-10-05,16,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,88,3
+2026-10-05,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,142,1
+2026-10-05,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,111,2
+2026-10-05,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,111,2
+2026-10-05,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,120,1
+2026-10-05,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,89,2
+2026-10-05,18,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,89,2
+2026-10-05,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,96,1
+2026-10-05,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,65,2
+2026-10-05,19,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,65,2
+2026-10-05,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,70,1
+2026-10-05,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,88,1
+2026-10-05,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,47,1
+2026-10-05,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,62,1
+2026-10-05,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,33,1
+2026-10-05,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,40,1
+2026-10-05,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,21,1
+2026-10-05,4,DCA,Cat X,North,Modset-01,AIT,Standard,64,1
+2026-10-05,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,34,1
+2026-10-05,5,DCA,Cat X,North,Modset-01,AIT,Standard,124,2
+2026-10-05,5,DCA,Cat X,North,Modset-02,AIT,Standard,124,2
+2026-10-05,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,134,1
+2026-10-05,6,DCA,Cat X,North,Modset-01,AIT,Standard,98,3
+2026-10-05,6,DCA,Cat X,North,Modset-02,AIT,Standard,98,3
+2026-10-05,6,DCA,Cat X,North,Modset-03,AIT,Standard,98,3
+2026-10-05,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,158,1
+2026-10-05,7,DCA,Cat X,North,Modset-01,AIT,Standard,104,3
+2026-10-05,7,DCA,Cat X,North,Modset-02,AIT,Standard,104,3
+2026-10-05,7,DCA,Cat X,North,Modset-03,AIT,Standard,104,3
+2026-10-05,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,169,1
+2026-10-05,8,DCA,Cat X,North,Modset-01,AIT,Standard,161,1
+2026-10-05,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,128,1
+2026-10-05,9,DCA,Cat X,North,Modset-01,AIT,Standard,82,2
+2026-10-05,9,DCA,Cat X,North,Modset-02,AIT,Standard,82,2
+2026-10-05,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,88,1
+2026-10-05,10,DCA,Cat X,North,Modset-01,AIT,Standard,73,2
+2026-10-05,10,DCA,Cat X,North,Modset-02,AIT,Standard,73,2
+2026-10-05,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,79,1
+2026-10-05,11,DCA,Cat X,North,Modset-01,AIT,Standard,77,2
+2026-10-05,11,DCA,Cat X,North,Modset-02,AIT,Standard,77,2
+2026-10-05,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,83,1
+2026-10-05,12,DCA,Cat X,North,Modset-01,AIT,Standard,169,1
+2026-10-05,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,95,1
+2026-10-05,13,DCA,Cat X,North,Modset-01,AIT,Standard,89,2
+2026-10-05,13,DCA,Cat X,North,Modset-02,AIT,Standard,89,2
+2026-10-05,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,95,1
+2026-10-05,14,DCA,Cat X,North,Modset-01,AIT,Standard,102,2
+2026-10-05,14,DCA,Cat X,North,Modset-02,AIT,Standard,102,2
+2026-10-05,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,110,1
+2026-10-05,15,DCA,Cat X,North,Modset-01,AIT,Standard,90,3
+2026-10-05,15,DCA,Cat X,North,Modset-02,AIT,Standard,90,3
+2026-10-05,15,DCA,Cat X,North,Modset-03,AIT,Standard,90,3
+2026-10-05,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,146,1
+2026-10-05,16,DCA,Cat X,North,Modset-01,AIT,Standard,101,3
+2026-10-05,16,DCA,Cat X,North,Modset-02,AIT,Standard,101,3
+2026-10-05,16,DCA,Cat X,North,Modset-03,AIT,Standard,101,3
+2026-10-05,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,163,1
+2026-10-05,17,DCA,Cat X,North,Modset-01,AIT,Standard,92,3
+2026-10-05,17,DCA,Cat X,North,Modset-02,AIT,Standard,92,3
+2026-10-05,17,DCA,Cat X,North,Modset-03,AIT,Standard,92,3
+2026-10-05,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,148,1
+2026-10-05,18,DCA,Cat X,North,Modset-01,AIT,Standard,118,2
+2026-10-05,18,DCA,Cat X,North,Modset-02,AIT,Standard,118,2
+2026-10-05,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,127,1
+2026-10-05,19,DCA,Cat X,North,Modset-01,AIT,Standard,156,1
+2026-10-05,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,84,1
+2026-10-05,20,DCA,Cat X,North,Modset-01,AIT,Standard,119,1
+2026-10-05,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,64,1
+2026-10-05,21,DCA,Cat X,North,Modset-01,AIT,Standard,84,1
+2026-10-05,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,45,1
+2026-10-05,22,DCA,Cat X,North,Modset-01,AIT,Standard,48,1
+2026-10-05,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,26,1
+2026-10-05,4,DCA,Cat X,South,Modset-01,AIT,Standard,63,1
+2026-10-05,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,34,1
+2026-10-05,5,DCA,Cat X,South,Modset-01,AIT,Standard,113,2
+2026-10-05,5,DCA,Cat X,South,Modset-02,AIT,Standard,113,2
+2026-10-05,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,122,1
+2026-10-05,6,DCA,Cat X,South,Modset-01,AIT,Standard,95,3
+2026-10-05,6,DCA,Cat X,South,Modset-02,AIT,Standard,95,3
+2026-10-05,6,DCA,Cat X,South,Modset-03,AIT,Standard,95,3
+2026-10-05,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,154,1
+2026-10-05,7,DCA,Cat X,South,Modset-01,AIT,Standard,90,3
+2026-10-05,7,DCA,Cat X,South,Modset-02,AIT,Standard,90,3
+2026-10-05,7,DCA,Cat X,South,Modset-03,AIT,Standard,90,3
+2026-10-05,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,145,1
+2026-10-05,8,DCA,Cat X,South,Modset-01,AIT,Standard,110,2
+2026-10-05,8,DCA,Cat X,South,Modset-02,AIT,Standard,110,2
+2026-10-05,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,118,1
+2026-10-05,9,DCA,Cat X,South,Modset-01,AIT,Standard,68,2
+2026-10-05,9,DCA,Cat X,South,Modset-02,AIT,Standard,68,2
+2026-10-05,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,73,1
+2026-10-05,10,DCA,Cat X,South,Modset-01,AIT,Standard,125,1
+2026-10-05,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,67,1
+2026-10-05,11,DCA,Cat X,South,Modset-01,AIT,Standard,76,2
+2026-10-05,11,DCA,Cat X,South,Modset-02,AIT,Standard,76,2
+2026-10-05,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,82,1
+2026-10-05,12,DCA,Cat X,South,Modset-01,AIT,Standard,78,2
+2026-10-05,12,DCA,Cat X,South,Modset-02,AIT,Standard,78,2
+2026-10-05,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,84,1
+2026-10-05,13,DCA,Cat X,South,Modset-01,AIT,Standard,79,2
+2026-10-05,13,DCA,Cat X,South,Modset-02,AIT,Standard,79,2
+2026-10-05,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,85,1
+2026-10-05,14,DCA,Cat X,South,Modset-01,AIT,Standard,163,1
+2026-10-05,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,96,1
+2026-10-05,15,DCA,Cat X,South,Modset-01,AIT,Standard,120,2
+2026-10-05,15,DCA,Cat X,South,Modset-02,AIT,Standard,120,2
+2026-10-05,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,130,1
+2026-10-05,16,DCA,Cat X,South,Modset-01,AIT,Standard,95,3
+2026-10-05,16,DCA,Cat X,South,Modset-02,AIT,Standard,95,3
+2026-10-05,16,DCA,Cat X,South,Modset-03,AIT,Standard,95,3
+2026-10-05,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,154,1
+2026-10-05,17,DCA,Cat X,South,Modset-01,AIT,Standard,88,3
+2026-10-05,17,DCA,Cat X,South,Modset-02,AIT,Standard,88,3
+2026-10-05,17,DCA,Cat X,South,Modset-03,AIT,Standard,88,3
+2026-10-05,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,142,1
+2026-10-05,18,DCA,Cat X,South,Modset-01,AIT,Standard,96,2
+2026-10-05,18,DCA,Cat X,South,Modset-02,AIT,Standard,96,2
+2026-10-05,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,104,1
+2026-10-05,19,DCA,Cat X,South,Modset-01,AIT,Standard,80,2
+2026-10-05,19,DCA,Cat X,South,Modset-02,AIT,Standard,80,2
+2026-10-05,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,86,1
+2026-10-05,20,DCA,Cat X,South,Modset-01,AIT,Standard,105,1
+2026-10-05,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,56,1
+2026-10-05,21,DCA,Cat X,South,Modset-01,AIT,Standard,79,1
+2026-10-05,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,43,1
+2026-10-05,22,DCA,Cat X,South,Modset-01,AIT,Standard,48,1
+2026-10-05,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,26,1
+2026-10-05,4,IAD,Cat X,East,Modset-01,AIT,Standard,81,1
+2026-10-05,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,43,1
+2026-10-05,5,IAD,Cat X,East,Modset-01,AIT,Standard,117,3
+2026-10-05,5,IAD,Cat X,East,Modset-02,AIT,Standard,117,3
+2026-10-05,5,IAD,Cat X,East,Modset-03,AIT,Standard,117,3
+2026-10-05,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,95,2
+2026-10-05,5,IAD,Cat X,East,Modset-06,WTMD,PreCheck,95,2
+2026-10-05,6,IAD,Cat X,East,Modset-01,AIT,Standard,99,4
+2026-10-05,6,IAD,Cat X,East,Modset-02,AIT,Standard,99,4
+2026-10-05,6,IAD,Cat X,East,Modset-03,AIT,Standard,99,4
+2026-10-05,6,IAD,Cat X,East,Modset-04,WTMD,Standard,99,4
+2026-10-05,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,107,2
+2026-10-05,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,107,2
+2026-10-05,7,IAD,Cat X,East,Modset-01,AIT,Standard,128,3
+2026-10-05,7,IAD,Cat X,East,Modset-02,AIT,Standard,128,3
+2026-10-05,7,IAD,Cat X,East,Modset-03,AIT,Standard,128,3
+2026-10-05,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,103,2
+2026-10-05,7,IAD,Cat X,East,Modset-06,WTMD,PreCheck,103,2
+2026-10-05,8,IAD,Cat X,East,Modset-01,AIT,Standard,102,3
+2026-10-05,8,IAD,Cat X,East,Modset-02,AIT,Standard,102,3
+2026-10-05,8,IAD,Cat X,East,Modset-03,AIT,Standard,102,3
+2026-10-05,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,165,1
+2026-10-05,9,IAD,Cat X,East,Modset-01,AIT,Standard,158,1
+2026-10-05,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,107,1
+2026-10-05,10,IAD,Cat X,East,Modset-01,AIT,Standard,95,2
+2026-10-05,10,IAD,Cat X,East,Modset-02,AIT,Standard,95,2
+2026-10-05,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,102,1
+2026-10-05,11,IAD,Cat X,East,Modset-01,AIT,Standard,101,2
+2026-10-05,11,IAD,Cat X,East,Modset-02,AIT,Standard,101,2
+2026-10-05,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,109,1
+2026-10-05,12,IAD,Cat X,East,Modset-01,AIT,Standard,104,2
+2026-10-05,12,IAD,Cat X,East,Modset-02,AIT,Standard,104,2
+2026-10-05,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,112,1
+2026-10-05,13,IAD,Cat X,East,Modset-01,AIT,Standard,96,2
+2026-10-05,13,IAD,Cat X,East,Modset-02,AIT,Standard,96,2
+2026-10-05,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,103,1
+2026-10-05,14,IAD,Cat X,East,Modset-01,AIT,Standard,87,3
+2026-10-05,14,IAD,Cat X,East,Modset-02,AIT,Standard,87,3
+2026-10-05,14,IAD,Cat X,East,Modset-03,AIT,Standard,87,3
+2026-10-05,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,141,1
+2026-10-05,15,IAD,Cat X,East,Modset-01,AIT,Standard,100,3
+2026-10-05,15,IAD,Cat X,East,Modset-02,AIT,Standard,100,3
+2026-10-05,15,IAD,Cat X,East,Modset-03,AIT,Standard,100,3
+2026-10-05,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,162,1
+2026-10-05,16,IAD,Cat X,East,Modset-01,AIT,Standard,116,3
+2026-10-05,16,IAD,Cat X,East,Modset-02,AIT,Standard,116,3
+2026-10-05,16,IAD,Cat X,East,Modset-03,AIT,Standard,116,3
+2026-10-05,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,93,2
+2026-10-05,16,IAD,Cat X,East,Modset-06,WTMD,PreCheck,93,2
+2026-10-05,17,IAD,Cat X,East,Modset-01,AIT,Standard,115,3
+2026-10-05,17,IAD,Cat X,East,Modset-02,AIT,Standard,115,3
+2026-10-05,17,IAD,Cat X,East,Modset-03,AIT,Standard,115,3
+2026-10-05,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,93,2
+2026-10-05,17,IAD,Cat X,East,Modset-06,WTMD,PreCheck,93,2
+2026-10-05,18,IAD,Cat X,East,Modset-01,AIT,Standard,102,3
+2026-10-05,18,IAD,Cat X,East,Modset-02,AIT,Standard,102,3
+2026-10-05,18,IAD,Cat X,East,Modset-03,AIT,Standard,102,3
+2026-10-05,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,165,1
+2026-10-05,19,IAD,Cat X,East,Modset-01,AIT,Standard,99,2
+2026-10-05,19,IAD,Cat X,East,Modset-02,AIT,Standard,99,2
+2026-10-05,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,107,1
+2026-10-05,20,IAD,Cat X,East,Modset-01,AIT,Standard,76,2
+2026-10-05,20,IAD,Cat X,East,Modset-02,AIT,Standard,76,2
+2026-10-05,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,82,1
+2026-10-05,21,IAD,Cat X,East,Modset-01,AIT,Standard,112,1
+2026-10-05,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,60,1
+2026-10-05,22,IAD,Cat X,East,Modset-01,AIT,Standard,63,1
+2026-10-05,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,34,1
+2026-10-05,4,IAD,Cat X,West,Modset-01,AIT,Standard,73,1
+2026-10-05,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,39,1
+2026-10-05,5,IAD,Cat X,West,Modset-01,AIT,Standard,122,2
+2026-10-05,5,IAD,Cat X,West,Modset-02,AIT,Standard,122,2
+2026-10-05,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,132,1
+2026-10-05,6,IAD,Cat X,West,Modset-01,AIT,Standard,107,3
+2026-10-05,6,IAD,Cat X,West,Modset-02,AIT,Standard,107,3
+2026-10-05,6,IAD,Cat X,West,Modset-03,AIT,Standard,107,3
+2026-10-05,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,173,1
+2026-10-05,7,IAD,Cat X,West,Modset-01,AIT,Standard,105,3
+2026-10-05,7,IAD,Cat X,West,Modset-02,AIT,Standard,105,3
+2026-10-05,7,IAD,Cat X,West,Modset-03,AIT,Standard,105,3
+2026-10-05,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,169,1
+2026-10-05,8,IAD,Cat X,West,Modset-01,AIT,Standard,112,2
+2026-10-05,8,IAD,Cat X,West,Modset-02,AIT,Standard,112,2
+2026-10-05,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,121,1
+2026-10-05,9,IAD,Cat X,West,Modset-01,AIT,Standard,85,2
+2026-10-05,9,IAD,Cat X,West,Modset-02,AIT,Standard,85,2
+2026-10-05,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,91,1
+2026-10-05,10,IAD,Cat X,West,Modset-01,AIT,Standard,75,2
+2026-10-05,10,IAD,Cat X,West,Modset-02,AIT,Standard,75,2
+2026-10-05,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,81,1
+2026-10-05,11,IAD,Cat X,West,Modset-01,AIT,Standard,80,2
+2026-10-05,11,IAD,Cat X,West,Modset-02,AIT,Standard,80,2
+2026-10-05,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,86,1
+2026-10-05,12,IAD,Cat X,West,Modset-01,AIT,Standard,89,2
+2026-10-05,12,IAD,Cat X,West,Modset-02,AIT,Standard,89,2
+2026-10-05,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,95,1
+2026-10-05,13,IAD,Cat X,West,Modset-01,AIT,Standard,82,2
+2026-10-05,13,IAD,Cat X,West,Modset-02,AIT,Standard,82,2
+2026-10-05,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,88,1
+2026-10-05,14,IAD,Cat X,West,Modset-01,AIT,Standard,93,2
+2026-10-05,14,IAD,Cat X,West,Modset-02,AIT,Standard,93,2
+2026-10-05,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,100,1
+2026-10-05,15,IAD,Cat X,West,Modset-01,AIT,Standard,92,3
+2026-10-05,15,IAD,Cat X,West,Modset-02,AIT,Standard,92,3
+2026-10-05,15,IAD,Cat X,West,Modset-03,AIT,Standard,92,3
+2026-10-05,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,149,1
+2026-10-05,16,IAD,Cat X,West,Modset-01,AIT,Standard,102,3
+2026-10-05,16,IAD,Cat X,West,Modset-02,AIT,Standard,102,3
+2026-10-05,16,IAD,Cat X,West,Modset-03,AIT,Standard,102,3
+2026-10-05,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,165,1
+2026-10-05,17,IAD,Cat X,West,Modset-01,AIT,Standard,87,3
+2026-10-05,17,IAD,Cat X,West,Modset-02,AIT,Standard,87,3
+2026-10-05,17,IAD,Cat X,West,Modset-03,AIT,Standard,87,3
+2026-10-05,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,141,1
+2026-10-05,18,IAD,Cat X,West,Modset-01,AIT,Standard,107,2
+2026-10-05,18,IAD,Cat X,West,Modset-02,AIT,Standard,107,2
+2026-10-05,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,115,1
+2026-10-05,19,IAD,Cat X,West,Modset-01,AIT,Standard,93,2
+2026-10-05,19,IAD,Cat X,West,Modset-02,AIT,Standard,93,2
+2026-10-05,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,100,1
+2026-10-05,20,IAD,Cat X,West,Modset-01,AIT,Standard,128,1
+2026-10-05,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,69,1
+2026-10-05,21,IAD,Cat X,West,Modset-01,AIT,Standard,77,1
+2026-10-05,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,42,1
+2026-10-05,22,IAD,Cat X,West,Modset-01,AIT,Standard,46,1
+2026-10-05,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,25,1
+2026-10-06,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,72,1
+2026-10-06,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,39,1
+2026-10-06,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,94,3
+2026-10-06,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,94,3
+2026-10-06,5,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,94,3
+2026-10-06,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,151,1
+2026-10-06,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,108,3
+2026-10-06,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,108,3
+2026-10-06,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,108,3
+2026-10-06,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,175,1
+2026-10-06,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,93,3
+2026-10-06,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,93,3
+2026-10-06,7,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,93,3
+2026-10-06,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,151,1
+2026-10-06,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,114,2
+2026-10-06,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,114,2
+2026-10-06,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,122,1
+2026-10-06,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,84,2
+2026-10-06,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,84,2
+2026-10-06,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,90,1
+2026-10-06,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,72,2
+2026-10-06,10,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,72,2
+2026-10-06,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,77,1
+2026-10-06,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,88,2
+2026-10-06,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,88,2
+2026-10-06,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,95,1
+2026-10-06,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,88,2
+2026-10-06,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,88,2
+2026-10-06,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,94,1
+2026-10-06,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,157,1
+2026-10-06,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,85,1
+2026-10-06,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,91,2
+2026-10-06,14,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,91,2
+2026-10-06,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,98,1
+2026-10-06,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,129,2
+2026-10-06,15,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,129,2
+2026-10-06,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,138,1
+2026-10-06,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,103,3
+2026-10-06,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,103,3
+2026-10-06,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,103,3
+2026-10-06,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,166,1
+2026-10-06,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,91,3
+2026-10-06,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,91,3
+2026-10-06,17,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,91,3
+2026-10-06,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,148,1
+2026-10-06,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,115,2
+2026-10-06,18,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,115,2
+2026-10-06,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,123,1
+2026-10-06,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,78,2
+2026-10-06,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,78,2
+2026-10-06,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,84,1
+2026-10-06,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,128,1
+2026-10-06,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,69,1
+2026-10-06,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,88,1
+2026-10-06,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,47,1
+2026-10-06,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,51,1
+2026-10-06,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,27,1
+2026-10-06,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,47,1
+2026-10-06,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,25,1
+2026-10-06,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,92,2
+2026-10-06,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,92,2
+2026-10-06,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,99,1
+2026-10-06,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,127,2
+2026-10-06,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,127,2
+2026-10-06,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,137,1
+2026-10-06,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,158,1
+2026-10-06,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,125,1
+2026-10-06,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,166,1
+2026-10-06,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,97,1
+2026-10-06,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,66,2
+2026-10-06,9,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,66,2
+2026-10-06,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,71,1
+2026-10-06,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,114,1
+2026-10-06,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,61,1
+2026-10-06,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,128,1
+2026-10-06,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,69,1
+2026-10-06,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,73,2
+2026-10-06,12,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,73,2
+2026-10-06,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,79,1
+2026-10-06,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,69,2
+2026-10-06,13,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,69,2
+2026-10-06,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,74,1
+2026-10-06,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,156,1
+2026-10-06,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,84,1
+2026-10-06,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,106,2
+2026-10-06,15,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,106,2
+2026-10-06,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,114,1
+2026-10-06,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,116,2
+2026-10-06,16,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,116,2
+2026-10-06,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,125,1
+2026-10-06,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,114,2
+2026-10-06,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,114,2
+2026-10-06,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,123,1
+2026-10-06,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,81,2
+2026-10-06,18,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,81,2
+2026-10-06,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,87,1
+2026-10-06,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,65,2
+2026-10-06,19,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,65,2
+2026-10-06,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,70,1
+2026-10-06,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,81,1
+2026-10-06,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,44,1
+2026-10-06,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,58,1
+2026-10-06,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,31,1
+2026-10-06,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,41,1
+2026-10-06,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,22,1
+2026-10-06,4,DCA,Cat X,North,Modset-01,AIT,Standard,54,1
+2026-10-06,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,29,1
+2026-10-06,5,DCA,Cat X,North,Modset-01,AIT,Standard,108,2
+2026-10-06,5,DCA,Cat X,North,Modset-02,AIT,Standard,108,2
+2026-10-06,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,117,1
+2026-10-06,6,DCA,Cat X,North,Modset-01,AIT,Standard,96,3
+2026-10-06,6,DCA,Cat X,North,Modset-02,AIT,Standard,96,3
+2026-10-06,6,DCA,Cat X,North,Modset-03,AIT,Standard,96,3
+2026-10-06,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,155,1
+2026-10-06,7,DCA,Cat X,North,Modset-01,AIT,Standard,92,3
+2026-10-06,7,DCA,Cat X,North,Modset-02,AIT,Standard,92,3
+2026-10-06,7,DCA,Cat X,North,Modset-03,AIT,Standard,92,3
+2026-10-06,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,149,1
+2026-10-06,8,DCA,Cat X,North,Modset-01,AIT,Standard,165,1
+2026-10-06,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,108,1
+2026-10-06,9,DCA,Cat X,North,Modset-01,AIT,Standard,74,2
+2026-10-06,9,DCA,Cat X,North,Modset-02,AIT,Standard,74,2
+2026-10-06,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,79,1
+2026-10-06,10,DCA,Cat X,North,Modset-01,AIT,Standard,71,2
+2026-10-06,10,DCA,Cat X,North,Modset-02,AIT,Standard,71,2
+2026-10-06,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,77,1
+2026-10-06,11,DCA,Cat X,North,Modset-01,AIT,Standard,78,2
+2026-10-06,11,DCA,Cat X,North,Modset-02,AIT,Standard,78,2
+2026-10-06,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,84,1
+2026-10-06,12,DCA,Cat X,North,Modset-01,AIT,Standard,88,2
+2026-10-06,12,DCA,Cat X,North,Modset-02,AIT,Standard,88,2
+2026-10-06,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,94,1
+2026-10-06,13,DCA,Cat X,North,Modset-01,AIT,Standard,72,2
+2026-10-06,13,DCA,Cat X,North,Modset-02,AIT,Standard,72,2
+2026-10-06,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,77,1
+2026-10-06,14,DCA,Cat X,North,Modset-01,AIT,Standard,98,2
+2026-10-06,14,DCA,Cat X,North,Modset-02,AIT,Standard,98,2
+2026-10-06,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,106,1
+2026-10-06,15,DCA,Cat X,North,Modset-01,AIT,Standard,129,2
+2026-10-06,15,DCA,Cat X,North,Modset-02,AIT,Standard,129,2
+2026-10-06,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,139,1
+2026-10-06,16,DCA,Cat X,North,Modset-01,AIT,Standard,128,2
+2026-10-06,16,DCA,Cat X,North,Modset-02,AIT,Standard,128,2
+2026-10-06,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,138,1
+2026-10-06,17,DCA,Cat X,North,Modset-01,AIT,Standard,117,2
+2026-10-06,17,DCA,Cat X,North,Modset-02,AIT,Standard,117,2
+2026-10-06,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,126,1
+2026-10-06,18,DCA,Cat X,North,Modset-01,AIT,Standard,104,2
+2026-10-06,18,DCA,Cat X,North,Modset-02,AIT,Standard,104,2
+2026-10-06,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,112,1
+2026-10-06,19,DCA,Cat X,North,Modset-01,AIT,Standard,81,2
+2026-10-06,19,DCA,Cat X,North,Modset-02,AIT,Standard,81,2
+2026-10-06,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,87,1
+2026-10-06,20,DCA,Cat X,North,Modset-01,AIT,Standard,97,1
+2026-10-06,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,52,1
+2026-10-06,21,DCA,Cat X,North,Modset-01,AIT,Standard,76,1
+2026-10-06,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,41,1
+2026-10-06,22,DCA,Cat X,North,Modset-01,AIT,Standard,49,1
+2026-10-06,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,26,1
+2026-10-06,4,DCA,Cat X,South,Modset-01,AIT,Standard,51,1
+2026-10-06,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,28,1
+2026-10-06,5,DCA,Cat X,South,Modset-01,AIT,Standard,163,1
+2026-10-06,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,118,1
+2026-10-06,6,DCA,Cat X,South,Modset-01,AIT,Standard,124,2
+2026-10-06,6,DCA,Cat X,South,Modset-02,AIT,Standard,124,2
+2026-10-06,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,133,1
+2026-10-06,7,DCA,Cat X,South,Modset-01,AIT,Standard,114,2
+2026-10-06,7,DCA,Cat X,South,Modset-02,AIT,Standard,114,2
+2026-10-06,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,123,1
+2026-10-06,8,DCA,Cat X,South,Modset-01,AIT,Standard,101,2
+2026-10-06,8,DCA,Cat X,South,Modset-02,AIT,Standard,101,2
+2026-10-06,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,109,1
+2026-10-06,9,DCA,Cat X,South,Modset-01,AIT,Standard,69,2
+2026-10-06,9,DCA,Cat X,South,Modset-02,AIT,Standard,69,2
+2026-10-06,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,75,1
+2026-10-06,10,DCA,Cat X,South,Modset-01,AIT,Standard,68,2
+2026-10-06,10,DCA,Cat X,South,Modset-02,AIT,Standard,68,2
+2026-10-06,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,73,1
+2026-10-06,11,DCA,Cat X,South,Modset-01,AIT,Standard,69,2
+2026-10-06,11,DCA,Cat X,South,Modset-02,AIT,Standard,69,2
+2026-10-06,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,74,1
+2026-10-06,12,DCA,Cat X,South,Modset-01,AIT,Standard,78,2
+2026-10-06,12,DCA,Cat X,South,Modset-02,AIT,Standard,78,2
+2026-10-06,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,84,1
+2026-10-06,13,DCA,Cat X,South,Modset-01,AIT,Standard,147,1
+2026-10-06,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,79,1
+2026-10-06,14,DCA,Cat X,South,Modset-01,AIT,Standard,77,2
+2026-10-06,14,DCA,Cat X,South,Modset-02,AIT,Standard,77,2
+2026-10-06,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,83,1
+2026-10-06,15,DCA,Cat X,South,Modset-01,AIT,Standard,118,2
+2026-10-06,15,DCA,Cat X,South,Modset-02,AIT,Standard,118,2
+2026-10-06,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,127,1
+2026-10-06,16,DCA,Cat X,South,Modset-01,AIT,Standard,115,2
+2026-10-06,16,DCA,Cat X,South,Modset-02,AIT,Standard,115,2
+2026-10-06,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,124,1
+2026-10-06,17,DCA,Cat X,South,Modset-01,AIT,Standard,165,1
+2026-10-06,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,135,1
+2026-10-06,18,DCA,Cat X,South,Modset-01,AIT,Standard,99,2
+2026-10-06,18,DCA,Cat X,South,Modset-02,AIT,Standard,99,2
+2026-10-06,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,107,1
+2026-10-06,19,DCA,Cat X,South,Modset-01,AIT,Standard,73,2
+2026-10-06,19,DCA,Cat X,South,Modset-02,AIT,Standard,73,2
+2026-10-06,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,78,1
+2026-10-06,20,DCA,Cat X,South,Modset-01,AIT,Standard,88,1
+2026-10-06,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,47,1
+2026-10-06,21,DCA,Cat X,South,Modset-01,AIT,Standard,72,1
+2026-10-06,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,39,1
+2026-10-06,22,DCA,Cat X,South,Modset-01,AIT,Standard,40,1
+2026-10-06,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,22,1
+2026-10-06,4,IAD,Cat X,East,Modset-01,AIT,Standard,83,1
+2026-10-06,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,45,1
+2026-10-06,5,IAD,Cat X,East,Modset-01,AIT,Standard,145,2
+2026-10-06,5,IAD,Cat X,East,Modset-02,AIT,Standard,145,2
+2026-10-06,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,156,1
+2026-10-06,6,IAD,Cat X,East,Modset-01,AIT,Standard,116,3
+2026-10-06,6,IAD,Cat X,East,Modset-02,AIT,Standard,116,3
+2026-10-06,6,IAD,Cat X,East,Modset-03,AIT,Standard,116,3
+2026-10-06,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,94,2
+2026-10-06,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,94,2
+2026-10-06,7,IAD,Cat X,East,Modset-01,AIT,Standard,124,3
+2026-10-06,7,IAD,Cat X,East,Modset-02,AIT,Standard,124,3
+2026-10-06,7,IAD,Cat X,East,Modset-03,AIT,Standard,124,3
+2026-10-06,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,100,2
+2026-10-06,7,IAD,Cat X,East,Modset-06,WTMD,PreCheck,100,2
+2026-10-06,8,IAD,Cat X,East,Modset-01,AIT,Standard,127,2
+2026-10-06,8,IAD,Cat X,East,Modset-02,AIT,Standard,127,2
+2026-10-06,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,137,1
+2026-10-06,9,IAD,Cat X,East,Modset-01,AIT,Standard,101,2
+2026-10-06,9,IAD,Cat X,East,Modset-02,AIT,Standard,101,2
+2026-10-06,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,109,1
+2026-10-06,10,IAD,Cat X,East,Modset-01,AIT,Standard,80,2
+2026-10-06,10,IAD,Cat X,East,Modset-02,AIT,Standard,80,2
+2026-10-06,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,86,1
+2026-10-06,11,IAD,Cat X,East,Modset-01,AIT,Standard,91,2
+2026-10-06,11,IAD,Cat X,East,Modset-02,AIT,Standard,91,2
+2026-10-06,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,98,1
+2026-10-06,12,IAD,Cat X,East,Modset-01,AIT,Standard,101,2
+2026-10-06,12,IAD,Cat X,East,Modset-02,AIT,Standard,101,2
+2026-10-06,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,109,1
+2026-10-06,13,IAD,Cat X,East,Modset-01,AIT,Standard,93,2
+2026-10-06,13,IAD,Cat X,East,Modset-02,AIT,Standard,93,2
+2026-10-06,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,100,1
+2026-10-06,14,IAD,Cat X,East,Modset-01,AIT,Standard,113,2
+2026-10-06,14,IAD,Cat X,East,Modset-02,AIT,Standard,113,2
+2026-10-06,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,122,1
+2026-10-06,15,IAD,Cat X,East,Modset-01,AIT,Standard,105,3
+2026-10-06,15,IAD,Cat X,East,Modset-02,AIT,Standard,105,3
+2026-10-06,15,IAD,Cat X,East,Modset-03,AIT,Standard,105,3
+2026-10-06,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,170,1
+2026-10-06,16,IAD,Cat X,East,Modset-01,AIT,Standard,123,3
+2026-10-06,16,IAD,Cat X,East,Modset-02,AIT,Standard,123,3
+2026-10-06,16,IAD,Cat X,East,Modset-03,AIT,Standard,123,3
+2026-10-06,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,99,2
+2026-10-06,16,IAD,Cat X,East,Modset-06,WTMD,PreCheck,99,2
+2026-10-06,17,IAD,Cat X,East,Modset-01,AIT,Standard,115,3
+2026-10-06,17,IAD,Cat X,East,Modset-02,AIT,Standard,115,3
+2026-10-06,17,IAD,Cat X,East,Modset-03,AIT,Standard,115,3
+2026-10-06,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,93,2
+2026-10-06,17,IAD,Cat X,East,Modset-06,WTMD,PreCheck,93,2
+2026-10-06,18,IAD,Cat X,East,Modset-01,AIT,Standard,127,2
+2026-10-06,18,IAD,Cat X,East,Modset-02,AIT,Standard,127,2
+2026-10-06,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,137,1
+2026-10-06,19,IAD,Cat X,East,Modset-01,AIT,Standard,90,2
+2026-10-06,19,IAD,Cat X,East,Modset-02,AIT,Standard,90,2
+2026-10-06,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,97,1
+2026-10-06,20,IAD,Cat X,East,Modset-01,AIT,Standard,144,1
+2026-10-06,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,78,1
+2026-10-06,21,IAD,Cat X,East,Modset-01,AIT,Standard,93,1
+2026-10-06,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,50,1
+2026-10-06,22,IAD,Cat X,East,Modset-01,AIT,Standard,58,1
+2026-10-06,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,31,1
+2026-10-06,4,IAD,Cat X,West,Modset-01,AIT,Standard,68,1
+2026-10-06,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,37,1
+2026-10-06,5,IAD,Cat X,West,Modset-01,AIT,Standard,127,2
+2026-10-06,5,IAD,Cat X,West,Modset-02,AIT,Standard,127,2
+2026-10-06,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,137,1
+2026-10-06,6,IAD,Cat X,West,Modset-01,AIT,Standard,107,3
+2026-10-06,6,IAD,Cat X,West,Modset-02,AIT,Standard,107,3
+2026-10-06,6,IAD,Cat X,West,Modset-03,AIT,Standard,107,3
+2026-10-06,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,173,1
+2026-10-06,7,IAD,Cat X,West,Modset-01,AIT,Standard,98,3
+2026-10-06,7,IAD,Cat X,West,Modset-02,AIT,Standard,98,3
+2026-10-06,7,IAD,Cat X,West,Modset-03,AIT,Standard,98,3
+2026-10-06,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,158,1
+2026-10-06,8,IAD,Cat X,West,Modset-01,AIT,Standard,111,2
+2026-10-06,8,IAD,Cat X,West,Modset-02,AIT,Standard,111,2
+2026-10-06,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,119,1
+2026-10-06,9,IAD,Cat X,West,Modset-01,AIT,Standard,82,2
+2026-10-06,9,IAD,Cat X,West,Modset-02,AIT,Standard,82,2
+2026-10-06,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,88,1
+2026-10-06,10,IAD,Cat X,West,Modset-01,AIT,Standard,74,2
+2026-10-06,10,IAD,Cat X,West,Modset-02,AIT,Standard,74,2
+2026-10-06,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,80,1
+2026-10-06,11,IAD,Cat X,West,Modset-01,AIT,Standard,74,2
+2026-10-06,11,IAD,Cat X,West,Modset-02,AIT,Standard,74,2
+2026-10-06,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,80,1
+2026-10-06,12,IAD,Cat X,West,Modset-01,AIT,Standard,92,2
+2026-10-06,12,IAD,Cat X,West,Modset-02,AIT,Standard,92,2
+2026-10-06,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,99,1
+2026-10-06,13,IAD,Cat X,West,Modset-01,AIT,Standard,79,2
+2026-10-06,13,IAD,Cat X,West,Modset-02,AIT,Standard,79,2
+2026-10-06,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,85,1
+2026-10-06,14,IAD,Cat X,West,Modset-01,AIT,Standard,101,2
+2026-10-06,14,IAD,Cat X,West,Modset-02,AIT,Standard,101,2
+2026-10-06,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,108,1
+2026-10-06,15,IAD,Cat X,West,Modset-01,AIT,Standard,117,2
+2026-10-06,15,IAD,Cat X,West,Modset-02,AIT,Standard,117,2
+2026-10-06,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,126,1
+2026-10-06,16,IAD,Cat X,West,Modset-01,AIT,Standard,90,3
+2026-10-06,16,IAD,Cat X,West,Modset-02,AIT,Standard,90,3
+2026-10-06,16,IAD,Cat X,West,Modset-03,AIT,Standard,90,3
+2026-10-06,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,146,1
+2026-10-06,17,IAD,Cat X,West,Modset-01,AIT,Standard,92,3
+2026-10-06,17,IAD,Cat X,West,Modset-02,AIT,Standard,92,3
+2026-10-06,17,IAD,Cat X,West,Modset-03,AIT,Standard,92,3
+2026-10-06,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,148,1
+2026-10-06,18,IAD,Cat X,West,Modset-01,AIT,Standard,103,2
+2026-10-06,18,IAD,Cat X,West,Modset-02,AIT,Standard,103,2
+2026-10-06,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,111,1
+2026-10-06,19,IAD,Cat X,West,Modset-01,AIT,Standard,154,1
+2026-10-06,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,83,1
+2026-10-06,20,IAD,Cat X,West,Modset-01,AIT,Standard,112,1
+2026-10-06,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,60,1
+2026-10-06,21,IAD,Cat X,West,Modset-01,AIT,Standard,80,1
+2026-10-06,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,43,1
+2026-10-06,22,IAD,Cat X,West,Modset-01,AIT,Standard,49,1
+2026-10-06,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,26,1
+2026-10-07,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,62,1
+2026-10-07,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,33,1
+2026-10-07,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,125,2
+2026-10-07,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,125,2
+2026-10-07,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,135,1
+2026-10-07,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,117,3
+2026-10-07,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,117,3
+2026-10-07,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,117,3
+2026-10-07,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,94,2
+2026-10-07,6,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,94,2
+2026-10-07,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,90,3
+2026-10-07,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,90,3
+2026-10-07,7,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,90,3
+2026-10-07,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,145,1
+2026-10-07,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,110,2
+2026-10-07,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,110,2
+2026-10-07,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,118,1
+2026-10-07,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,85,2
+2026-10-07,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,85,2
+2026-10-07,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,91,1
+2026-10-07,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,72,2
+2026-10-07,10,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,72,2
+2026-10-07,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,77,1
+2026-10-07,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,80,2
+2026-10-07,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,80,2
+2026-10-07,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,86,1
+2026-10-07,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,86,2
+2026-10-07,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,86,2
+2026-10-07,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,93,1
+2026-10-07,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,87,2
+2026-10-07,13,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,87,2
+2026-10-07,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,93,1
+2026-10-07,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,89,2
+2026-10-07,14,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,89,2
+2026-10-07,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,95,1
+2026-10-07,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,159,1
+2026-10-07,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,139,1
+2026-10-07,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,95,3
+2026-10-07,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,95,3
+2026-10-07,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,95,3
+2026-10-07,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,154,1
+2026-10-07,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,96,3
+2026-10-07,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,96,3
+2026-10-07,17,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,96,3
+2026-10-07,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,154,1
+2026-10-07,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,124,2
+2026-10-07,18,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,124,2
+2026-10-07,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,134,1
+2026-10-07,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,74,2
+2026-10-07,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,74,2
+2026-10-07,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,80,1
+2026-10-07,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,121,1
+2026-10-07,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,65,1
+2026-10-07,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,76,1
+2026-10-07,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,41,1
+2026-10-07,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,48,1
+2026-10-07,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,26,1
+2026-10-07,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,53,1
+2026-10-07,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,29,1
+2026-10-07,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,97,2
+2026-10-07,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,97,2
+2026-10-07,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,104,1
+2026-10-07,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,114,2
+2026-10-07,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,114,2
+2026-10-07,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,122,1
+2026-10-07,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,100,2
+2026-10-07,7,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,100,2
+2026-10-07,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,108,1
+2026-10-07,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,85,2
+2026-10-07,8,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,85,2
+2026-10-07,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,92,1
+2026-10-07,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,115,1
+2026-10-07,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,62,1
+2026-10-07,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,108,1
+2026-10-07,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,58,1
+2026-10-07,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,112,1
+2026-10-07,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,61,1
+2026-10-07,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,69,2
+2026-10-07,12,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,69,2
+2026-10-07,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,75,1
+2026-10-07,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,121,1
+2026-10-07,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,65,1
+2026-10-07,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,76,2
+2026-10-07,14,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,76,2
+2026-10-07,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,82,1
+2026-10-07,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,90,2
+2026-10-07,15,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,90,2
+2026-10-07,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,97,1
+2026-10-07,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,163,1
+2026-10-07,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,109,1
+2026-10-07,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,101,2
+2026-10-07,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,101,2
+2026-10-07,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,109,1
+2026-10-07,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,94,2
+2026-10-07,18,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,94,2
+2026-10-07,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,101,1
+2026-10-07,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,130,1
+2026-10-07,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,70,1
+2026-10-07,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,93,1
+2026-10-07,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,50,1
+2026-10-07,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,61,1
+2026-10-07,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,33,1
+2026-10-07,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,39,1
+2026-10-07,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,21,1
+2026-10-07,4,DCA,Cat X,North,Modset-01,AIT,Standard,63,1
+2026-10-07,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,34,1
+2026-10-07,5,DCA,Cat X,North,Modset-01,AIT,Standard,107,2
+2026-10-07,5,DCA,Cat X,North,Modset-02,AIT,Standard,107,2
+2026-10-07,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,116,1
+2026-10-07,6,DCA,Cat X,North,Modset-01,AIT,Standard,93,3
+2026-10-07,6,DCA,Cat X,North,Modset-02,AIT,Standard,93,3
+2026-10-07,6,DCA,Cat X,North,Modset-03,AIT,Standard,93,3
+2026-10-07,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,150,1
+2026-10-07,7,DCA,Cat X,North,Modset-01,AIT,Standard,90,3
+2026-10-07,7,DCA,Cat X,North,Modset-02,AIT,Standard,90,3
+2026-10-07,7,DCA,Cat X,North,Modset-03,AIT,Standard,90,3
+2026-10-07,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,145,1
+2026-10-07,8,DCA,Cat X,North,Modset-01,AIT,Standard,101,2
+2026-10-07,8,DCA,Cat X,North,Modset-02,AIT,Standard,101,2
+2026-10-07,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,109,1
+2026-10-07,9,DCA,Cat X,North,Modset-01,AIT,Standard,139,1
+2026-10-07,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,75,1
+2026-10-07,10,DCA,Cat X,North,Modset-01,AIT,Standard,65,2
+2026-10-07,10,DCA,Cat X,North,Modset-02,AIT,Standard,65,2
+2026-10-07,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,70,1
+2026-10-07,11,DCA,Cat X,North,Modset-01,AIT,Standard,72,2
+2026-10-07,11,DCA,Cat X,North,Modset-02,AIT,Standard,72,2
+2026-10-07,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,77,1
+2026-10-07,12,DCA,Cat X,North,Modset-01,AIT,Standard,87,2
+2026-10-07,12,DCA,Cat X,North,Modset-02,AIT,Standard,87,2
+2026-10-07,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,94,1
+2026-10-07,13,DCA,Cat X,North,Modset-01,AIT,Standard,132,1
+2026-10-07,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,71,1
+2026-10-07,14,DCA,Cat X,North,Modset-01,AIT,Standard,80,2
+2026-10-07,14,DCA,Cat X,North,Modset-02,AIT,Standard,80,2
+2026-10-07,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,86,1
+2026-10-07,15,DCA,Cat X,North,Modset-01,AIT,Standard,128,2
+2026-10-07,15,DCA,Cat X,North,Modset-02,AIT,Standard,128,2
+2026-10-07,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,138,1
+2026-10-07,16,DCA,Cat X,North,Modset-01,AIT,Standard,163,1
+2026-10-07,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,136,1
+2026-10-07,17,DCA,Cat X,North,Modset-01,AIT,Standard,115,2
+2026-10-07,17,DCA,Cat X,North,Modset-02,AIT,Standard,115,2
+2026-10-07,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,124,1
+2026-10-07,18,DCA,Cat X,North,Modset-01,AIT,Standard,96,2
+2026-10-07,18,DCA,Cat X,North,Modset-02,AIT,Standard,96,2
+2026-10-07,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,103,1
+2026-10-07,19,DCA,Cat X,North,Modset-01,AIT,Standard,71,2
+2026-10-07,19,DCA,Cat X,North,Modset-02,AIT,Standard,71,2
+2026-10-07,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,77,1
+2026-10-07,20,DCA,Cat X,North,Modset-01,AIT,Standard,100,1
+2026-10-07,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,54,1
+2026-10-07,21,DCA,Cat X,North,Modset-01,AIT,Standard,67,1
+2026-10-07,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,36,1
+2026-10-07,22,DCA,Cat X,North,Modset-01,AIT,Standard,42,1
+2026-10-07,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,22,1
+2026-10-07,4,DCA,Cat X,South,Modset-01,AIT,Standard,52,1
+2026-10-07,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,28,1
+2026-10-07,5,DCA,Cat X,South,Modset-01,AIT,Standard,101,2
+2026-10-07,5,DCA,Cat X,South,Modset-02,AIT,Standard,101,2
+2026-10-07,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,108,1
+2026-10-07,6,DCA,Cat X,South,Modset-01,AIT,Standard,126,2
+2026-10-07,6,DCA,Cat X,South,Modset-02,AIT,Standard,126,2
+2026-10-07,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,136,1
+2026-10-07,7,DCA,Cat X,South,Modset-01,AIT,Standard,116,2
+2026-10-07,7,DCA,Cat X,South,Modset-02,AIT,Standard,116,2
+2026-10-07,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,125,1
+2026-10-07,8,DCA,Cat X,South,Modset-01,AIT,Standard,101,2
+2026-10-07,8,DCA,Cat X,South,Modset-02,AIT,Standard,101,2
+2026-10-07,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,109,1
+2026-10-07,9,DCA,Cat X,South,Modset-01,AIT,Standard,130,1
+2026-10-07,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,70,1
+2026-10-07,10,DCA,Cat X,South,Modset-01,AIT,Standard,121,1
+2026-10-07,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,65,1
+2026-10-07,11,DCA,Cat X,South,Modset-01,AIT,Standard,123,1
+2026-10-07,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,66,1
+2026-10-07,12,DCA,Cat X,South,Modset-01,AIT,Standard,81,2
+2026-10-07,12,DCA,Cat X,South,Modset-02,AIT,Standard,81,2
+2026-10-07,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,87,1
+2026-10-07,13,DCA,Cat X,South,Modset-01,AIT,Standard,125,1
+2026-10-07,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,67,1
+2026-10-07,14,DCA,Cat X,South,Modset-01,AIT,Standard,87,2
+2026-10-07,14,DCA,Cat X,South,Modset-02,AIT,Standard,87,2
+2026-10-07,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,93,1
+2026-10-07,15,DCA,Cat X,South,Modset-01,AIT,Standard,108,2
+2026-10-07,15,DCA,Cat X,South,Modset-02,AIT,Standard,108,2
+2026-10-07,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,117,1
+2026-10-07,16,DCA,Cat X,South,Modset-01,AIT,Standard,88,3
+2026-10-07,16,DCA,Cat X,South,Modset-02,AIT,Standard,88,3
+2026-10-07,16,DCA,Cat X,South,Modset-03,AIT,Standard,88,3
+2026-10-07,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,142,1
+2026-10-07,17,DCA,Cat X,South,Modset-01,AIT,Standard,108,2
+2026-10-07,17,DCA,Cat X,South,Modset-02,AIT,Standard,108,2
+2026-10-07,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,116,1
+2026-10-07,18,DCA,Cat X,South,Modset-01,AIT,Standard,103,2
+2026-10-07,18,DCA,Cat X,South,Modset-02,AIT,Standard,103,2
+2026-10-07,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,111,1
+2026-10-07,19,DCA,Cat X,South,Modset-01,AIT,Standard,125,1
+2026-10-07,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,68,1
+2026-10-07,20,DCA,Cat X,South,Modset-01,AIT,Standard,99,1
+2026-10-07,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,54,1
+2026-10-07,21,DCA,Cat X,South,Modset-01,AIT,Standard,72,1
+2026-10-07,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,39,1
+2026-10-07,22,DCA,Cat X,South,Modset-01,AIT,Standard,37,1
+2026-10-07,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,20,1
+2026-10-07,4,IAD,Cat X,East,Modset-01,AIT,Standard,82,1
+2026-10-07,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,44,1
+2026-10-07,5,IAD,Cat X,East,Modset-01,AIT,Standard,91,3
+2026-10-07,5,IAD,Cat X,East,Modset-02,AIT,Standard,91,3
+2026-10-07,5,IAD,Cat X,East,Modset-03,AIT,Standard,91,3
+2026-10-07,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,146,1
+2026-10-07,6,IAD,Cat X,East,Modset-01,AIT,Standard,98,4
+2026-10-07,6,IAD,Cat X,East,Modset-02,AIT,Standard,98,4
+2026-10-07,6,IAD,Cat X,East,Modset-03,AIT,Standard,98,4
+2026-10-07,6,IAD,Cat X,East,Modset-04,WTMD,Standard,98,4
+2026-10-07,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,105,2
+2026-10-07,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,105,2
+2026-10-07,7,IAD,Cat X,East,Modset-01,AIT,Standard,121,3
+2026-10-07,7,IAD,Cat X,East,Modset-02,AIT,Standard,121,3
+2026-10-07,7,IAD,Cat X,East,Modset-03,AIT,Standard,121,3
+2026-10-07,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,98,2
+2026-10-07,7,IAD,Cat X,East,Modset-06,WTMD,PreCheck,98,2
+2026-10-07,8,IAD,Cat X,East,Modset-01,AIT,Standard,87,3
+2026-10-07,8,IAD,Cat X,East,Modset-02,AIT,Standard,87,3
+2026-10-07,8,IAD,Cat X,East,Modset-03,AIT,Standard,87,3
+2026-10-07,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,140,1
+2026-10-07,9,IAD,Cat X,East,Modset-01,AIT,Standard,85,2
+2026-10-07,9,IAD,Cat X,East,Modset-02,AIT,Standard,85,2
+2026-10-07,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,91,1
+2026-10-07,10,IAD,Cat X,East,Modset-01,AIT,Standard,86,2
+2026-10-07,10,IAD,Cat X,East,Modset-02,AIT,Standard,86,2
+2026-10-07,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,93,1
+2026-10-07,11,IAD,Cat X,East,Modset-01,AIT,Standard,168,1
+2026-10-07,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,91,1
+2026-10-07,12,IAD,Cat X,East,Modset-01,AIT,Standard,168,1
+2026-10-07,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,118,1
+2026-10-07,13,IAD,Cat X,East,Modset-01,AIT,Standard,101,2
+2026-10-07,13,IAD,Cat X,East,Modset-02,AIT,Standard,101,2
+2026-10-07,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,109,1
+2026-10-07,14,IAD,Cat X,East,Modset-01,AIT,Standard,159,1
+2026-10-07,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,109,1
+2026-10-07,15,IAD,Cat X,East,Modset-01,AIT,Standard,93,3
+2026-10-07,15,IAD,Cat X,East,Modset-02,AIT,Standard,93,3
+2026-10-07,15,IAD,Cat X,East,Modset-03,AIT,Standard,93,3
+2026-10-07,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,150,1
+2026-10-07,16,IAD,Cat X,East,Modset-01,AIT,Standard,110,3
+2026-10-07,16,IAD,Cat X,East,Modset-02,AIT,Standard,110,3
+2026-10-07,16,IAD,Cat X,East,Modset-03,AIT,Standard,110,3
+2026-10-07,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,178,1
+2026-10-07,17,IAD,Cat X,East,Modset-01,AIT,Standard,108,3
+2026-10-07,17,IAD,Cat X,East,Modset-02,AIT,Standard,108,3
+2026-10-07,17,IAD,Cat X,East,Modset-03,AIT,Standard,108,3
+2026-10-07,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,174,1
+2026-10-07,18,IAD,Cat X,East,Modset-01,AIT,Standard,169,1
+2026-10-07,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,129,1
+2026-10-07,19,IAD,Cat X,East,Modset-01,AIT,Standard,92,2
+2026-10-07,19,IAD,Cat X,East,Modset-02,AIT,Standard,92,2
+2026-10-07,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,99,1
+2026-10-07,20,IAD,Cat X,East,Modset-01,AIT,Standard,65,2
+2026-10-07,20,IAD,Cat X,East,Modset-02,AIT,Standard,65,2
+2026-10-07,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,70,1
+2026-10-07,21,IAD,Cat X,East,Modset-01,AIT,Standard,85,1
+2026-10-07,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,46,1
+2026-10-07,22,IAD,Cat X,East,Modset-01,AIT,Standard,54,1
+2026-10-07,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,29,1
+2026-10-07,4,IAD,Cat X,West,Modset-01,AIT,Standard,67,1
+2026-10-07,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,36,1
+2026-10-07,5,IAD,Cat X,West,Modset-01,AIT,Standard,126,2
+2026-10-07,5,IAD,Cat X,West,Modset-02,AIT,Standard,126,2
+2026-10-07,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,135,1
+2026-10-07,6,IAD,Cat X,West,Modset-01,AIT,Standard,94,3
+2026-10-07,6,IAD,Cat X,West,Modset-02,AIT,Standard,94,3
+2026-10-07,6,IAD,Cat X,West,Modset-03,AIT,Standard,94,3
+2026-10-07,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,151,1
+2026-10-07,7,IAD,Cat X,West,Modset-01,AIT,Standard,126,2
+2026-10-07,7,IAD,Cat X,West,Modset-02,AIT,Standard,126,2
+2026-10-07,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,136,1
+2026-10-07,8,IAD,Cat X,West,Modset-01,AIT,Standard,114,2
+2026-10-07,8,IAD,Cat X,West,Modset-02,AIT,Standard,114,2
+2026-10-07,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,123,1
+2026-10-07,9,IAD,Cat X,West,Modset-01,AIT,Standard,82,2
+2026-10-07,9,IAD,Cat X,West,Modset-02,AIT,Standard,82,2
+2026-10-07,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,88,1
+2026-10-07,10,IAD,Cat X,West,Modset-01,AIT,Standard,125,1
+2026-10-07,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,67,1
+2026-10-07,11,IAD,Cat X,West,Modset-01,AIT,Standard,69,2
+2026-10-07,11,IAD,Cat X,West,Modset-02,AIT,Standard,69,2
+2026-10-07,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,74,1
+2026-10-07,12,IAD,Cat X,West,Modset-01,AIT,Standard,84,2
+2026-10-07,12,IAD,Cat X,West,Modset-02,AIT,Standard,84,2
+2026-10-07,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,90,1
+2026-10-07,13,IAD,Cat X,West,Modset-01,AIT,Standard,75,2
+2026-10-07,13,IAD,Cat X,West,Modset-02,AIT,Standard,75,2
+2026-10-07,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,81,1
+2026-10-07,14,IAD,Cat X,West,Modset-01,AIT,Standard,85,2
+2026-10-07,14,IAD,Cat X,West,Modset-02,AIT,Standard,85,2
+2026-10-07,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,92,1
+2026-10-07,15,IAD,Cat X,West,Modset-01,AIT,Standard,122,2
+2026-10-07,15,IAD,Cat X,West,Modset-02,AIT,Standard,122,2
+2026-10-07,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,131,1
+2026-10-07,16,IAD,Cat X,West,Modset-01,AIT,Standard,95,3
+2026-10-07,16,IAD,Cat X,West,Modset-02,AIT,Standard,95,3
+2026-10-07,16,IAD,Cat X,West,Modset-03,AIT,Standard,95,3
+2026-10-07,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,153,1
+2026-10-07,17,IAD,Cat X,West,Modset-01,AIT,Standard,128,2
+2026-10-07,17,IAD,Cat X,West,Modset-02,AIT,Standard,128,2
+2026-10-07,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,138,1
+2026-10-07,18,IAD,Cat X,West,Modset-01,AIT,Standard,107,2
+2026-10-07,18,IAD,Cat X,West,Modset-02,AIT,Standard,107,2
+2026-10-07,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,116,1
+2026-10-07,19,IAD,Cat X,West,Modset-01,AIT,Standard,70,2
+2026-10-07,19,IAD,Cat X,West,Modset-02,AIT,Standard,70,2
+2026-10-07,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,75,1
+2026-10-07,20,IAD,Cat X,West,Modset-01,AIT,Standard,103,1
+2026-10-07,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,55,1
+2026-10-07,21,IAD,Cat X,West,Modset-01,AIT,Standard,74,1
+2026-10-07,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,40,1
+2026-10-07,22,IAD,Cat X,West,Modset-01,AIT,Standard,48,1
+2026-10-07,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,26,1
+2026-10-08,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,75,1
+2026-10-08,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,40,1
+2026-10-08,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,89,3
+2026-10-08,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,89,3
+2026-10-08,5,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,89,3
+2026-10-08,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,143,1
+2026-10-08,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,118,3
+2026-10-08,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,118,3
+2026-10-08,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,118,3
+2026-10-08,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,95,2
+2026-10-08,6,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,95,2
+2026-10-08,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,105,3
+2026-10-08,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,105,3
+2026-10-08,7,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,105,3
+2026-10-08,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,170,1
+2026-10-08,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,112,2
+2026-10-08,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,112,2
+2026-10-08,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,121,1
+2026-10-08,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,88,2
+2026-10-08,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,88,2
+2026-10-08,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,94,1
+2026-10-08,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,72,2
+2026-10-08,10,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,72,2
+2026-10-08,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,78,1
+2026-10-08,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,90,2
+2026-10-08,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,90,2
+2026-10-08,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,97,1
+2026-10-08,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,97,2
+2026-10-08,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,97,2
+2026-10-08,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,104,1
+2026-10-08,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,91,2
+2026-10-08,13,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,91,2
+2026-10-08,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,98,1
+2026-10-08,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,104,2
+2026-10-08,14,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,104,2
+2026-10-08,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,112,1
+2026-10-08,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,167,1
+2026-10-08,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,136,1
+2026-10-08,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,98,3
+2026-10-08,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,98,3
+2026-10-08,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,98,3
+2026-10-08,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,159,1
+2026-10-08,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,92,3
+2026-10-08,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,92,3
+2026-10-08,17,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,92,3
+2026-10-08,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,148,1
+2026-10-08,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,158,1
+2026-10-08,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,117,1
+2026-10-08,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,93,2
+2026-10-08,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,93,2
+2026-10-08,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,101,1
+2026-10-08,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,66,2
+2026-10-08,20,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,66,2
+2026-10-08,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,71,1
+2026-10-08,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,83,1
+2026-10-08,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,45,1
+2026-10-08,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,50,1
+2026-10-08,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,27,1
+2026-10-08,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,52,1
+2026-10-08,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,28,1
+2026-10-08,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,101,2
+2026-10-08,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,101,2
+2026-10-08,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,109,1
+2026-10-08,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,89,3
+2026-10-08,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,89,3
+2026-10-08,6,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,89,3
+2026-10-08,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,144,1
+2026-10-08,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,110,2
+2026-10-08,7,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,110,2
+2026-10-08,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,119,1
+2026-10-08,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,84,2
+2026-10-08,8,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,84,2
+2026-10-08,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,90,1
+2026-10-08,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,70,2
+2026-10-08,9,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,70,2
+2026-10-08,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,75,1
+2026-10-08,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,106,1
+2026-10-08,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,57,1
+2026-10-08,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,120,1
+2026-10-08,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,65,1
+2026-10-08,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,2
+2026-10-08,12,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,67,2
+2026-10-08,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,73,1
+2026-10-08,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,2
+2026-10-08,13,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,67,2
+2026-10-08,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,72,1
+2026-10-08,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,148,1
+2026-10-08,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,80,1
+2026-10-08,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,102,2
+2026-10-08,15,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,102,2
+2026-10-08,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,110,1
+2026-10-08,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,123,2
+2026-10-08,16,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,123,2
+2026-10-08,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,133,1
+2026-10-08,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,117,2
+2026-10-08,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,117,2
+2026-10-08,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,126,1
+2026-10-08,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,162,1
+2026-10-08,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,105,1
+2026-10-08,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,2
+2026-10-08,19,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,67,2
+2026-10-08,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,72,1
+2026-10-08,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,94,1
+2026-10-08,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,50,1
+2026-10-08,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,59,1
+2026-10-08,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,32,1
+2026-10-08,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,41,1
+2026-10-08,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,22,1
+2026-10-08,4,DCA,Cat X,North,Modset-01,AIT,Standard,64,1
+2026-10-08,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,34,1
+2026-10-08,5,DCA,Cat X,North,Modset-01,AIT,Standard,127,2
+2026-10-08,5,DCA,Cat X,North,Modset-02,AIT,Standard,127,2
+2026-10-08,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,137,1
+2026-10-08,6,DCA,Cat X,North,Modset-01,AIT,Standard,100,3
+2026-10-08,6,DCA,Cat X,North,Modset-02,AIT,Standard,100,3
+2026-10-08,6,DCA,Cat X,North,Modset-03,AIT,Standard,100,3
+2026-10-08,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,162,1
+2026-10-08,7,DCA,Cat X,North,Modset-01,AIT,Standard,134,2
+2026-10-08,7,DCA,Cat X,North,Modset-02,AIT,Standard,134,2
+2026-10-08,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,145,1
+2026-10-08,8,DCA,Cat X,North,Modset-01,AIT,Standard,103,2
+2026-10-08,8,DCA,Cat X,North,Modset-02,AIT,Standard,103,2
+2026-10-08,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,111,1
+2026-10-08,9,DCA,Cat X,North,Modset-01,AIT,Standard,71,2
+2026-10-08,9,DCA,Cat X,North,Modset-02,AIT,Standard,71,2
+2026-10-08,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,77,1
+2026-10-08,10,DCA,Cat X,North,Modset-01,AIT,Standard,141,1
+2026-10-08,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,76,1
+2026-10-08,11,DCA,Cat X,North,Modset-01,AIT,Standard,74,2
+2026-10-08,11,DCA,Cat X,North,Modset-02,AIT,Standard,74,2
+2026-10-08,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,80,1
+2026-10-08,12,DCA,Cat X,North,Modset-01,AIT,Standard,77,2
+2026-10-08,12,DCA,Cat X,North,Modset-02,AIT,Standard,77,2
+2026-10-08,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,83,1
+2026-10-08,13,DCA,Cat X,North,Modset-01,AIT,Standard,84,2
+2026-10-08,13,DCA,Cat X,North,Modset-02,AIT,Standard,84,2
+2026-10-08,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,90,1
+2026-10-08,14,DCA,Cat X,North,Modset-01,AIT,Standard,84,2
+2026-10-08,14,DCA,Cat X,North,Modset-02,AIT,Standard,84,2
+2026-10-08,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,90,1
+2026-10-08,15,DCA,Cat X,North,Modset-01,AIT,Standard,167,1
+2026-10-08,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,120,1
+2026-10-08,16,DCA,Cat X,North,Modset-01,AIT,Standard,88,3
+2026-10-08,16,DCA,Cat X,North,Modset-02,AIT,Standard,88,3
+2026-10-08,16,DCA,Cat X,North,Modset-03,AIT,Standard,88,3
+2026-10-08,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,141,1
+2026-10-08,17,DCA,Cat X,North,Modset-01,AIT,Standard,91,3
+2026-10-08,17,DCA,Cat X,North,Modset-02,AIT,Standard,91,3
+2026-10-08,17,DCA,Cat X,North,Modset-03,AIT,Standard,91,3
+2026-10-08,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,148,1
+2026-10-08,18,DCA,Cat X,North,Modset-01,AIT,Standard,118,2
+2026-10-08,18,DCA,Cat X,North,Modset-02,AIT,Standard,118,2
+2026-10-08,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,127,1
+2026-10-08,19,DCA,Cat X,North,Modset-01,AIT,Standard,70,2
+2026-10-08,19,DCA,Cat X,North,Modset-02,AIT,Standard,70,2
+2026-10-08,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,76,1
+2026-10-08,20,DCA,Cat X,North,Modset-01,AIT,Standard,100,1
+2026-10-08,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,54,1
+2026-10-08,21,DCA,Cat X,North,Modset-01,AIT,Standard,84,1
+2026-10-08,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,45,1
+2026-10-08,22,DCA,Cat X,North,Modset-01,AIT,Standard,50,1
+2026-10-08,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,27,1
+2026-10-08,4,DCA,Cat X,South,Modset-01,AIT,Standard,59,1
+2026-10-08,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,32,1
+2026-10-08,5,DCA,Cat X,South,Modset-01,AIT,Standard,118,2
+2026-10-08,5,DCA,Cat X,South,Modset-02,AIT,Standard,118,2
+2026-10-08,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,127,1
+2026-10-08,6,DCA,Cat X,South,Modset-01,AIT,Standard,95,3
+2026-10-08,6,DCA,Cat X,South,Modset-02,AIT,Standard,95,3
+2026-10-08,6,DCA,Cat X,South,Modset-03,AIT,Standard,95,3
+2026-10-08,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,154,1
+2026-10-08,7,DCA,Cat X,South,Modset-01,AIT,Standard,91,3
+2026-10-08,7,DCA,Cat X,South,Modset-02,AIT,Standard,91,3
+2026-10-08,7,DCA,Cat X,South,Modset-03,AIT,Standard,91,3
+2026-10-08,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,146,1
+2026-10-08,8,DCA,Cat X,South,Modset-01,AIT,Standard,101,2
+2026-10-08,8,DCA,Cat X,South,Modset-02,AIT,Standard,101,2
+2026-10-08,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,109,1
+2026-10-08,9,DCA,Cat X,South,Modset-01,AIT,Standard,74,2
+2026-10-08,9,DCA,Cat X,South,Modset-02,AIT,Standard,74,2
+2026-10-08,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,80,1
+2026-10-08,10,DCA,Cat X,South,Modset-01,AIT,Standard,122,1
+2026-10-08,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,66,1
+2026-10-08,11,DCA,Cat X,South,Modset-01,AIT,Standard,67,2
+2026-10-08,11,DCA,Cat X,South,Modset-02,AIT,Standard,67,2
+2026-10-08,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,72,1
+2026-10-08,12,DCA,Cat X,South,Modset-01,AIT,Standard,74,2
+2026-10-08,12,DCA,Cat X,South,Modset-02,AIT,Standard,74,2
+2026-10-08,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,80,1
+2026-10-08,13,DCA,Cat X,South,Modset-01,AIT,Standard,137,1
+2026-10-08,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,74,1
+2026-10-08,14,DCA,Cat X,South,Modset-01,AIT,Standard,80,2
+2026-10-08,14,DCA,Cat X,South,Modset-02,AIT,Standard,80,2
+2026-10-08,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,86,1
+2026-10-08,15,DCA,Cat X,South,Modset-01,AIT,Standard,118,2
+2026-10-08,15,DCA,Cat X,South,Modset-02,AIT,Standard,118,2
+2026-10-08,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,127,1
+2026-10-08,16,DCA,Cat X,South,Modset-01,AIT,Standard,90,3
+2026-10-08,16,DCA,Cat X,South,Modset-02,AIT,Standard,90,3
+2026-10-08,16,DCA,Cat X,South,Modset-03,AIT,Standard,90,3
+2026-10-08,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,145,1
+2026-10-08,17,DCA,Cat X,South,Modset-01,AIT,Standard,124,2
+2026-10-08,17,DCA,Cat X,South,Modset-02,AIT,Standard,124,2
+2026-10-08,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,134,1
+2026-10-08,18,DCA,Cat X,South,Modset-01,AIT,Standard,95,2
+2026-10-08,18,DCA,Cat X,South,Modset-02,AIT,Standard,95,2
+2026-10-08,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,102,1
+2026-10-08,19,DCA,Cat X,South,Modset-01,AIT,Standard,76,2
+2026-10-08,19,DCA,Cat X,South,Modset-02,AIT,Standard,76,2
+2026-10-08,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,82,1
+2026-10-08,20,DCA,Cat X,South,Modset-01,AIT,Standard,90,1
+2026-10-08,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,49,1
+2026-10-08,21,DCA,Cat X,South,Modset-01,AIT,Standard,74,1
+2026-10-08,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,40,1
+2026-10-08,22,DCA,Cat X,South,Modset-01,AIT,Standard,46,1
+2026-10-08,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,25,1
+2026-10-08,4,IAD,Cat X,East,Modset-01,AIT,Standard,77,1
+2026-10-08,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,42,1
+2026-10-08,5,IAD,Cat X,East,Modset-01,AIT,Standard,95,3
+2026-10-08,5,IAD,Cat X,East,Modset-02,AIT,Standard,95,3
+2026-10-08,5,IAD,Cat X,East,Modset-03,AIT,Standard,95,3
+2026-10-08,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,154,1
+2026-10-08,6,IAD,Cat X,East,Modset-01,AIT,Standard,102,4
+2026-10-08,6,IAD,Cat X,East,Modset-02,AIT,Standard,102,4
+2026-10-08,6,IAD,Cat X,East,Modset-03,AIT,Standard,102,4
+2026-10-08,6,IAD,Cat X,East,Modset-04,WTMD,Standard,102,4
+2026-10-08,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,110,2
+2026-10-08,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,110,2
+2026-10-08,7,IAD,Cat X,East,Modset-01,AIT,Standard,123,3
+2026-10-08,7,IAD,Cat X,East,Modset-02,AIT,Standard,123,3
+2026-10-08,7,IAD,Cat X,East,Modset-03,AIT,Standard,123,3
+2026-10-08,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,99,2
+2026-10-08,7,IAD,Cat X,East,Modset-06,WTMD,PreCheck,99,2
+2026-10-08,8,IAD,Cat X,East,Modset-01,AIT,Standard,97,3
+2026-10-08,8,IAD,Cat X,East,Modset-02,AIT,Standard,97,3
+2026-10-08,8,IAD,Cat X,East,Modset-03,AIT,Standard,97,3
+2026-10-08,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,156,1
+2026-10-08,9,IAD,Cat X,East,Modset-01,AIT,Standard,94,2
+2026-10-08,9,IAD,Cat X,East,Modset-02,AIT,Standard,94,2
+2026-10-08,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,102,1
+2026-10-08,10,IAD,Cat X,East,Modset-01,AIT,Standard,91,2
+2026-10-08,10,IAD,Cat X,East,Modset-02,AIT,Standard,91,2
+2026-10-08,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,98,1
+2026-10-08,11,IAD,Cat X,East,Modset-01,AIT,Standard,92,2
+2026-10-08,11,IAD,Cat X,East,Modset-02,AIT,Standard,92,2
+2026-10-08,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,99,1
+2026-10-08,12,IAD,Cat X,East,Modset-01,AIT,Standard,114,2
+2026-10-08,12,IAD,Cat X,East,Modset-02,AIT,Standard,114,2
+2026-10-08,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,123,1
+2026-10-08,13,IAD,Cat X,East,Modset-01,AIT,Standard,106,2
+2026-10-08,13,IAD,Cat X,East,Modset-02,AIT,Standard,106,2
+2026-10-08,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,114,1
+2026-10-08,14,IAD,Cat X,East,Modset-01,AIT,Standard,87,3
+2026-10-08,14,IAD,Cat X,East,Modset-02,AIT,Standard,87,3
+2026-10-08,14,IAD,Cat X,East,Modset-03,AIT,Standard,87,3
+2026-10-08,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,140,1
+2026-10-08,15,IAD,Cat X,East,Modset-01,AIT,Standard,111,3
+2026-10-08,15,IAD,Cat X,East,Modset-02,AIT,Standard,111,3
+2026-10-08,15,IAD,Cat X,East,Modset-03,AIT,Standard,111,3
+2026-10-08,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,180,1
+2026-10-08,16,IAD,Cat X,East,Modset-01,AIT,Standard,118,3
+2026-10-08,16,IAD,Cat X,East,Modset-02,AIT,Standard,118,3
+2026-10-08,16,IAD,Cat X,East,Modset-03,AIT,Standard,118,3
+2026-10-08,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,95,2
+2026-10-08,16,IAD,Cat X,East,Modset-06,WTMD,PreCheck,95,2
+2026-10-08,17,IAD,Cat X,East,Modset-01,AIT,Standard,160,2
+2026-10-08,17,IAD,Cat X,East,Modset-02,AIT,Standard,166,2
+2026-10-08,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,179,1
+2026-10-08,18,IAD,Cat X,East,Modset-01,AIT,Standard,98,3
+2026-10-08,18,IAD,Cat X,East,Modset-02,AIT,Standard,98,3
+2026-10-08,18,IAD,Cat X,East,Modset-03,AIT,Standard,98,3
+2026-10-08,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,159,1
+2026-10-08,19,IAD,Cat X,East,Modset-01,AIT,Standard,92,2
+2026-10-08,19,IAD,Cat X,East,Modset-02,AIT,Standard,92,2
+2026-10-08,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,99,1
+2026-10-08,20,IAD,Cat X,East,Modset-01,AIT,Standard,150,1
+2026-10-08,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,81,1
+2026-10-08,21,IAD,Cat X,East,Modset-01,AIT,Standard,100,1
+2026-10-08,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,54,1
+2026-10-08,22,IAD,Cat X,East,Modset-01,AIT,Standard,62,1
+2026-10-08,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,34,1
+2026-10-08,4,IAD,Cat X,West,Modset-01,AIT,Standard,58,1
+2026-10-08,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,31,1
+2026-10-08,5,IAD,Cat X,West,Modset-01,AIT,Standard,89,3
+2026-10-08,5,IAD,Cat X,West,Modset-02,AIT,Standard,89,3
+2026-10-08,5,IAD,Cat X,West,Modset-03,AIT,Standard,89,3
+2026-10-08,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,143,1
+2026-10-08,6,IAD,Cat X,West,Modset-01,AIT,Standard,112,3
+2026-10-08,6,IAD,Cat X,West,Modset-02,AIT,Standard,112,3
+2026-10-08,6,IAD,Cat X,West,Modset-03,AIT,Standard,112,3
+2026-10-08,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,181,1
+2026-10-08,7,IAD,Cat X,West,Modset-01,AIT,Standard,88,3
+2026-10-08,7,IAD,Cat X,West,Modset-02,AIT,Standard,88,3
+2026-10-08,7,IAD,Cat X,West,Modset-03,AIT,Standard,88,3
+2026-10-08,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,142,1
+2026-10-08,8,IAD,Cat X,West,Modset-01,AIT,Standard,160,1
+2026-10-08,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,122,1
+2026-10-08,9,IAD,Cat X,West,Modset-01,AIT,Standard,78,2
+2026-10-08,9,IAD,Cat X,West,Modset-02,AIT,Standard,78,2
+2026-10-08,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,84,1
+2026-10-08,10,IAD,Cat X,West,Modset-01,AIT,Standard,67,2
+2026-10-08,10,IAD,Cat X,West,Modset-02,AIT,Standard,67,2
+2026-10-08,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,72,1
+2026-10-08,11,IAD,Cat X,West,Modset-01,AIT,Standard,159,1
+2026-10-08,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,85,1
+2026-10-08,12,IAD,Cat X,West,Modset-01,AIT,Standard,162,1
+2026-10-08,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,87,1
+2026-10-08,13,IAD,Cat X,West,Modset-01,AIT,Standard,86,2
+2026-10-08,13,IAD,Cat X,West,Modset-02,AIT,Standard,86,2
+2026-10-08,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,92,1
+2026-10-08,14,IAD,Cat X,West,Modset-01,AIT,Standard,160,1
+2026-10-08,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,94,1
+2026-10-08,15,IAD,Cat X,West,Modset-01,AIT,Standard,117,2
+2026-10-08,15,IAD,Cat X,West,Modset-02,AIT,Standard,117,2
+2026-10-08,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,126,1
+2026-10-08,16,IAD,Cat X,West,Modset-01,AIT,Standard,87,3
+2026-10-08,16,IAD,Cat X,West,Modset-02,AIT,Standard,87,3
+2026-10-08,16,IAD,Cat X,West,Modset-03,AIT,Standard,87,3
+2026-10-08,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,141,1
+2026-10-08,17,IAD,Cat X,West,Modset-01,AIT,Standard,126,2
+2026-10-08,17,IAD,Cat X,West,Modset-02,AIT,Standard,126,2
+2026-10-08,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,135,1
+2026-10-08,18,IAD,Cat X,West,Modset-01,AIT,Standard,115,2
+2026-10-08,18,IAD,Cat X,West,Modset-02,AIT,Standard,115,2
+2026-10-08,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,124,1
+2026-10-08,19,IAD,Cat X,West,Modset-01,AIT,Standard,87,2
+2026-10-08,19,IAD,Cat X,West,Modset-02,AIT,Standard,87,2
+2026-10-08,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,94,1
+2026-10-08,20,IAD,Cat X,West,Modset-01,AIT,Standard,123,1
+2026-10-08,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,66,1
+2026-10-08,21,IAD,Cat X,West,Modset-01,AIT,Standard,84,1
+2026-10-08,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,45,1
+2026-10-08,22,IAD,Cat X,West,Modset-01,AIT,Standard,43,1
+2026-10-08,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,23,1
+2026-10-09,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,82,1
+2026-10-09,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,44,1
+2026-10-09,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,115,3
+2026-10-09,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,115,3
+2026-10-09,5,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,115,3
+2026-10-09,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,93,2
+2026-10-09,5,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,93,2
+2026-10-09,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,119,3
+2026-10-09,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,119,3
+2026-10-09,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,119,3
+2026-10-09,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,96,2
+2026-10-09,6,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,96,2
+2026-10-09,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,169,2
+2026-10-09,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,159,2
+2026-10-09,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,92,2
+2026-10-09,7,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,92,2
+2026-10-09,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,96,3
+2026-10-09,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,96,3
+2026-10-09,8,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,96,3
+2026-10-09,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,156,1
+2026-10-09,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,101,2
+2026-10-09,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,101,2
+2026-10-09,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,109,1
+2026-10-09,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,86,2
+2026-10-09,10,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,86,2
+2026-10-09,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,93,1
+2026-10-09,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,92,2
+2026-10-09,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,92,2
+2026-10-09,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,99,1
+2026-10-09,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,98,2
+2026-10-09,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,98,2
+2026-10-09,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,105,1
+2026-10-09,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,92,2
+2026-10-09,13,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,92,2
+2026-10-09,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,99,1
+2026-10-09,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,110,2
+2026-10-09,14,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,110,2
+2026-10-09,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,118,1
+2026-10-09,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,97,3
+2026-10-09,15,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,97,3
+2026-10-09,15,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,97,3
+2026-10-09,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,157,1
+2026-10-09,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,110,3
+2026-10-09,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,110,3
+2026-10-09,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,110,3
+2026-10-09,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,178,1
+2026-10-09,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,167,2
+2026-10-09,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,159,2
+2026-10-09,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,181,1
+2026-10-09,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,95,3
+2026-10-09,18,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,95,3
+2026-10-09,18,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,95,3
+2026-10-09,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,154,1
+2026-10-09,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,92,2
+2026-10-09,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,92,2
+2026-10-09,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,99,1
+2026-10-09,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,73,2
+2026-10-09,20,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,73,2
+2026-10-09,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,79,1
+2026-10-09,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,100,1
+2026-10-09,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,54,1
+2026-10-09,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,56,1
+2026-10-09,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,30,1
+2026-10-09,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,54,1
+2026-10-09,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,29,1
+2026-10-09,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,118,2
+2026-10-09,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,118,2
+2026-10-09,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,127,1
+2026-10-09,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,103,3
+2026-10-09,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,103,3
+2026-10-09,6,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,103,3
+2026-10-09,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,166,1
+2026-10-09,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,93,3
+2026-10-09,7,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,93,3
+2026-10-09,7,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,93,3
+2026-10-09,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,151,1
+2026-10-09,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,94,2
+2026-10-09,8,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,94,2
+2026-10-09,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,102,1
+2026-10-09,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,78,2
+2026-10-09,9,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,78,2
+2026-10-09,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,84,1
+2026-10-09,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,127,1
+2026-10-09,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,68,1
+2026-10-09,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,78,2
+2026-10-09,11,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,78,2
+2026-10-09,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,84,1
+2026-10-09,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,77,2
+2026-10-09,12,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,77,2
+2026-10-09,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,82,1
+2026-10-09,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,80,2
+2026-10-09,13,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,80,2
+2026-10-09,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,86,1
+2026-10-09,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,88,2
+2026-10-09,14,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,88,2
+2026-10-09,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,95,1
+2026-10-09,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,128,2
+2026-10-09,15,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,128,2
+2026-10-09,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,138,1
+2026-10-09,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,120,2
+2026-10-09,16,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,120,2
+2026-10-09,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,129,1
+2026-10-09,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,118,2
+2026-10-09,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,118,2
+2026-10-09,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,127,1
+2026-10-09,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,106,2
+2026-10-09,18,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,106,2
+2026-10-09,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,114,1
+2026-10-09,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,68,2
+2026-10-09,19,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,68,2
+2026-10-09,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,74,1
+2026-10-09,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,97,1
+2026-10-09,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,52,1
+2026-10-09,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,70,1
+2026-10-09,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,38,1
+2026-10-09,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,41,1
+2026-10-09,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,22,1
+2026-10-09,4,DCA,Cat X,North,Modset-01,AIT,Standard,77,1
+2026-10-09,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,41,1
+2026-10-09,5,DCA,Cat X,North,Modset-01,AIT,Standard,89,3
+2026-10-09,5,DCA,Cat X,North,Modset-02,AIT,Standard,89,3
+2026-10-09,5,DCA,Cat X,North,Modset-03,AIT,Standard,89,3
+2026-10-09,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,144,1
+2026-10-09,6,DCA,Cat X,North,Modset-01,AIT,Standard,119,3
+2026-10-09,6,DCA,Cat X,North,Modset-02,AIT,Standard,119,3
+2026-10-09,6,DCA,Cat X,North,Modset-03,AIT,Standard,119,3
+2026-10-09,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,96,2
+2026-10-09,6,DCA,Cat X,North,Modset-06,WTMD,PreCheck,96,2
+2026-10-09,7,DCA,Cat X,North,Modset-01,AIT,Standard,108,3
+2026-10-09,7,DCA,Cat X,North,Modset-02,AIT,Standard,108,3
+2026-10-09,7,DCA,Cat X,North,Modset-03,AIT,Standard,108,3
+2026-10-09,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,175,1
+2026-10-09,8,DCA,Cat X,North,Modset-01,AIT,Standard,88,3
+2026-10-09,8,DCA,Cat X,North,Modset-02,AIT,Standard,88,3
+2026-10-09,8,DCA,Cat X,North,Modset-03,AIT,Standard,88,3
+2026-10-09,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,142,1
+2026-10-09,9,DCA,Cat X,North,Modset-01,AIT,Standard,86,2
+2026-10-09,9,DCA,Cat X,North,Modset-02,AIT,Standard,86,2
+2026-10-09,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,93,1
+2026-10-09,10,DCA,Cat X,North,Modset-01,AIT,Standard,74,2
+2026-10-09,10,DCA,Cat X,North,Modset-02,AIT,Standard,74,2
+2026-10-09,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,80,1
+2026-10-09,11,DCA,Cat X,North,Modset-01,AIT,Standard,82,2
+2026-10-09,11,DCA,Cat X,North,Modset-02,AIT,Standard,82,2
+2026-10-09,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,89,1
+2026-10-09,12,DCA,Cat X,North,Modset-01,AIT,Standard,95,2
+2026-10-09,12,DCA,Cat X,North,Modset-02,AIT,Standard,95,2
+2026-10-09,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,102,1
+2026-10-09,13,DCA,Cat X,North,Modset-01,AIT,Standard,82,2
+2026-10-09,13,DCA,Cat X,North,Modset-02,AIT,Standard,82,2
+2026-10-09,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,89,1
+2026-10-09,14,DCA,Cat X,North,Modset-01,AIT,Standard,112,2
+2026-10-09,14,DCA,Cat X,North,Modset-02,AIT,Standard,112,2
+2026-10-09,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,121,1
+2026-10-09,15,DCA,Cat X,North,Modset-01,AIT,Standard,90,3
+2026-10-09,15,DCA,Cat X,North,Modset-02,AIT,Standard,90,3
+2026-10-09,15,DCA,Cat X,North,Modset-03,AIT,Standard,90,3
+2026-10-09,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,145,1
+2026-10-09,16,DCA,Cat X,North,Modset-01,AIT,Standard,106,3
+2026-10-09,16,DCA,Cat X,North,Modset-02,AIT,Standard,106,3
+2026-10-09,16,DCA,Cat X,North,Modset-03,AIT,Standard,106,3
+2026-10-09,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,171,1
+2026-10-09,17,DCA,Cat X,North,Modset-01,AIT,Standard,107,3
+2026-10-09,17,DCA,Cat X,North,Modset-02,AIT,Standard,107,3
+2026-10-09,17,DCA,Cat X,North,Modset-03,AIT,Standard,107,3
+2026-10-09,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,173,1
+2026-10-09,18,DCA,Cat X,North,Modset-01,AIT,Standard,119,2
+2026-10-09,18,DCA,Cat X,North,Modset-02,AIT,Standard,119,2
+2026-10-09,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,128,1
+2026-10-09,19,DCA,Cat X,North,Modset-01,AIT,Standard,96,2
+2026-10-09,19,DCA,Cat X,North,Modset-02,AIT,Standard,96,2
+2026-10-09,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,103,1
+2026-10-09,20,DCA,Cat X,North,Modset-01,AIT,Standard,66,2
+2026-10-09,20,DCA,Cat X,North,Modset-02,AIT,Standard,66,2
+2026-10-09,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,72,1
+2026-10-09,21,DCA,Cat X,North,Modset-01,AIT,Standard,83,1
+2026-10-09,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,45,1
+2026-10-09,22,DCA,Cat X,North,Modset-01,AIT,Standard,53,1
+2026-10-09,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,28,1
+2026-10-09,4,DCA,Cat X,South,Modset-01,AIT,Standard,68,1
+2026-10-09,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,37,1
+2026-10-09,5,DCA,Cat X,South,Modset-01,AIT,Standard,121,2
+2026-10-09,5,DCA,Cat X,South,Modset-02,AIT,Standard,121,2
+2026-10-09,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,130,1
+2026-10-09,6,DCA,Cat X,South,Modset-01,AIT,Standard,109,3
+2026-10-09,6,DCA,Cat X,South,Modset-02,AIT,Standard,109,3
+2026-10-09,6,DCA,Cat X,South,Modset-03,AIT,Standard,109,3
+2026-10-09,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,176,1
+2026-10-09,7,DCA,Cat X,South,Modset-01,AIT,Standard,103,3
+2026-10-09,7,DCA,Cat X,South,Modset-02,AIT,Standard,103,3
+2026-10-09,7,DCA,Cat X,South,Modset-03,AIT,Standard,103,3
+2026-10-09,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,167,1
+2026-10-09,8,DCA,Cat X,South,Modset-01,AIT,Standard,106,2
+2026-10-09,8,DCA,Cat X,South,Modset-02,AIT,Standard,106,2
+2026-10-09,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,114,1
+2026-10-09,9,DCA,Cat X,South,Modset-01,AIT,Standard,86,2
+2026-10-09,9,DCA,Cat X,South,Modset-02,AIT,Standard,86,2
+2026-10-09,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,93,1
+2026-10-09,10,DCA,Cat X,South,Modset-01,AIT,Standard,69,2
+2026-10-09,10,DCA,Cat X,South,Modset-02,AIT,Standard,69,2
+2026-10-09,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,75,1
+2026-10-09,11,DCA,Cat X,South,Modset-01,AIT,Standard,86,2
+2026-10-09,11,DCA,Cat X,South,Modset-02,AIT,Standard,86,2
+2026-10-09,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,92,1
+2026-10-09,12,DCA,Cat X,South,Modset-01,AIT,Standard,163,1
+2026-10-09,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,88,1
+2026-10-09,13,DCA,Cat X,South,Modset-01,AIT,Standard,81,2
+2026-10-09,13,DCA,Cat X,South,Modset-02,AIT,Standard,81,2
+2026-10-09,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,87,1
+2026-10-09,14,DCA,Cat X,South,Modset-01,AIT,Standard,98,2
+2026-10-09,14,DCA,Cat X,South,Modset-02,AIT,Standard,98,2
+2026-10-09,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,106,1
+2026-10-09,15,DCA,Cat X,South,Modset-01,AIT,Standard,124,2
+2026-10-09,15,DCA,Cat X,South,Modset-02,AIT,Standard,124,2
+2026-10-09,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,134,1
+2026-10-09,16,DCA,Cat X,South,Modset-01,AIT,Standard,90,3
+2026-10-09,16,DCA,Cat X,South,Modset-02,AIT,Standard,90,3
+2026-10-09,16,DCA,Cat X,South,Modset-03,AIT,Standard,90,3
+2026-10-09,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,146,1
+2026-10-09,17,DCA,Cat X,South,Modset-01,AIT,Standard,93,3
+2026-10-09,17,DCA,Cat X,South,Modset-02,AIT,Standard,93,3
+2026-10-09,17,DCA,Cat X,South,Modset-03,AIT,Standard,93,3
+2026-10-09,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,150,1
+2026-10-09,18,DCA,Cat X,South,Modset-01,AIT,Standard,113,2
+2026-10-09,18,DCA,Cat X,South,Modset-02,AIT,Standard,113,2
+2026-10-09,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,122,1
+2026-10-09,19,DCA,Cat X,South,Modset-01,AIT,Standard,85,2
+2026-10-09,19,DCA,Cat X,South,Modset-02,AIT,Standard,85,2
+2026-10-09,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,92,1
+2026-10-09,20,DCA,Cat X,South,Modset-01,AIT,Standard,119,1
+2026-10-09,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,64,1
+2026-10-09,21,DCA,Cat X,South,Modset-01,AIT,Standard,85,1
+2026-10-09,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,46,1
+2026-10-09,22,DCA,Cat X,South,Modset-01,AIT,Standard,53,1
+2026-10-09,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,29,1
+2026-10-09,4,IAD,Cat X,East,Modset-01,AIT,Standard,97,1
+2026-10-09,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,52,1
+2026-10-09,5,IAD,Cat X,East,Modset-01,AIT,Standard,162,2
+2026-10-09,5,IAD,Cat X,East,Modset-02,AIT,Standard,169,2
+2026-10-09,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,102,2
+2026-10-09,5,IAD,Cat X,East,Modset-06,WTMD,PreCheck,102,2
+2026-10-09,6,IAD,Cat X,East,Modset-01,AIT,Standard,161,3
+2026-10-09,6,IAD,Cat X,East,Modset-02,AIT,Standard,159,3
+2026-10-09,6,IAD,Cat X,East,Modset-03,AIT,Standard,158,3
+2026-10-09,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,130,2
+2026-10-09,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,130,2
+2026-10-09,7,IAD,Cat X,East,Modset-01,AIT,Standard,106,4
+2026-10-09,7,IAD,Cat X,East,Modset-02,AIT,Standard,106,4
+2026-10-09,7,IAD,Cat X,East,Modset-03,AIT,Standard,106,4
+2026-10-09,7,IAD,Cat X,East,Modset-04,WTMD,Standard,106,4
+2026-10-09,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,114,2
+2026-10-09,7,IAD,Cat X,East,Modset-06,WTMD,PreCheck,114,2
+2026-10-09,8,IAD,Cat X,East,Modset-01,AIT,Standard,103,3
+2026-10-09,8,IAD,Cat X,East,Modset-02,AIT,Standard,103,3
+2026-10-09,8,IAD,Cat X,East,Modset-03,AIT,Standard,103,3
+2026-10-09,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,166,1
+2026-10-09,9,IAD,Cat X,East,Modset-01,AIT,Standard,106,2
+2026-10-09,9,IAD,Cat X,East,Modset-02,AIT,Standard,106,2
+2026-10-09,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,115,1
+2026-10-09,10,IAD,Cat X,East,Modset-01,AIT,Standard,111,2
+2026-10-09,10,IAD,Cat X,East,Modset-02,AIT,Standard,111,2
+2026-10-09,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,120,1
+2026-10-09,11,IAD,Cat X,East,Modset-01,AIT,Standard,108,2
+2026-10-09,11,IAD,Cat X,East,Modset-02,AIT,Standard,108,2
+2026-10-09,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,117,1
+2026-10-09,12,IAD,Cat X,East,Modset-01,AIT,Standard,88,3
+2026-10-09,12,IAD,Cat X,East,Modset-02,AIT,Standard,88,3
+2026-10-09,12,IAD,Cat X,East,Modset-03,AIT,Standard,88,3
+2026-10-09,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,141,1
+2026-10-09,13,IAD,Cat X,East,Modset-01,AIT,Standard,167,1
+2026-10-09,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,113,1
+2026-10-09,14,IAD,Cat X,East,Modset-01,AIT,Standard,96,3
+2026-10-09,14,IAD,Cat X,East,Modset-02,AIT,Standard,96,3
+2026-10-09,14,IAD,Cat X,East,Modset-03,AIT,Standard,96,3
+2026-10-09,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,155,1
+2026-10-09,15,IAD,Cat X,East,Modset-01,AIT,Standard,117,3
+2026-10-09,15,IAD,Cat X,East,Modset-02,AIT,Standard,117,3
+2026-10-09,15,IAD,Cat X,East,Modset-03,AIT,Standard,117,3
+2026-10-09,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,94,2
+2026-10-09,15,IAD,Cat X,East,Modset-06,WTMD,PreCheck,94,2
+2026-10-09,16,IAD,Cat X,East,Modset-01,AIT,Standard,100,4
+2026-10-09,16,IAD,Cat X,East,Modset-02,AIT,Standard,100,4
+2026-10-09,16,IAD,Cat X,East,Modset-03,AIT,Standard,100,4
+2026-10-09,16,IAD,Cat X,East,Modset-04,WTMD,Standard,100,4
+2026-10-09,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,108,2
+2026-10-09,16,IAD,Cat X,East,Modset-06,WTMD,PreCheck,108,2
+2026-10-09,17,IAD,Cat X,East,Modset-01,AIT,Standard,129,3
+2026-10-09,17,IAD,Cat X,East,Modset-02,AIT,Standard,129,3
+2026-10-09,17,IAD,Cat X,East,Modset-03,AIT,Standard,129,3
+2026-10-09,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,104,2
+2026-10-09,17,IAD,Cat X,East,Modset-06,WTMD,PreCheck,104,2
+2026-10-09,18,IAD,Cat X,East,Modset-01,AIT,Standard,98,3
+2026-10-09,18,IAD,Cat X,East,Modset-02,AIT,Standard,98,3
+2026-10-09,18,IAD,Cat X,East,Modset-03,AIT,Standard,98,3
+2026-10-09,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,159,1
+2026-10-09,19,IAD,Cat X,East,Modset-01,AIT,Standard,121,2
+2026-10-09,19,IAD,Cat X,East,Modset-02,AIT,Standard,121,2
+2026-10-09,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,130,1
+2026-10-09,20,IAD,Cat X,East,Modset-01,AIT,Standard,85,2
+2026-10-09,20,IAD,Cat X,East,Modset-02,AIT,Standard,85,2
+2026-10-09,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,91,1
+2026-10-09,21,IAD,Cat X,East,Modset-01,AIT,Standard,102,1
+2026-10-09,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,55,1
+2026-10-09,22,IAD,Cat X,East,Modset-01,AIT,Standard,71,1
+2026-10-09,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,38,1
+2026-10-09,4,IAD,Cat X,West,Modset-01,AIT,Standard,77,1
+2026-10-09,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,42,1
+2026-10-09,5,IAD,Cat X,West,Modset-01,AIT,Standard,97,3
+2026-10-09,5,IAD,Cat X,West,Modset-02,AIT,Standard,97,3
+2026-10-09,5,IAD,Cat X,West,Modset-03,AIT,Standard,97,3
+2026-10-09,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,156,1
+2026-10-09,6,IAD,Cat X,West,Modset-01,AIT,Standard,119,3
+2026-10-09,6,IAD,Cat X,West,Modset-02,AIT,Standard,119,3
+2026-10-09,6,IAD,Cat X,West,Modset-03,AIT,Standard,119,3
+2026-10-09,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,96,2
+2026-10-09,6,IAD,Cat X,West,Modset-06,WTMD,PreCheck,96,2
+2026-10-09,7,IAD,Cat X,West,Modset-01,AIT,Standard,108,3
+2026-10-09,7,IAD,Cat X,West,Modset-02,AIT,Standard,108,3
+2026-10-09,7,IAD,Cat X,West,Modset-03,AIT,Standard,108,3
+2026-10-09,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,174,1
+2026-10-09,8,IAD,Cat X,West,Modset-01,AIT,Standard,93,3
+2026-10-09,8,IAD,Cat X,West,Modset-02,AIT,Standard,93,3
+2026-10-09,8,IAD,Cat X,West,Modset-03,AIT,Standard,93,3
+2026-10-09,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,150,1
+2026-10-09,9,IAD,Cat X,West,Modset-01,AIT,Standard,163,1
+2026-10-09,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,95,1
+2026-10-09,10,IAD,Cat X,West,Modset-01,AIT,Standard,81,2
+2026-10-09,10,IAD,Cat X,West,Modset-02,AIT,Standard,81,2
+2026-10-09,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,87,1
+2026-10-09,11,IAD,Cat X,West,Modset-01,AIT,Standard,98,2
+2026-10-09,11,IAD,Cat X,West,Modset-02,AIT,Standard,98,2
+2026-10-09,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,106,1
+2026-10-09,12,IAD,Cat X,West,Modset-01,AIT,Standard,102,2
+2026-10-09,12,IAD,Cat X,West,Modset-02,AIT,Standard,102,2
+2026-10-09,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,109,1
+2026-10-09,13,IAD,Cat X,West,Modset-01,AIT,Standard,99,2
+2026-10-09,13,IAD,Cat X,West,Modset-02,AIT,Standard,99,2
+2026-10-09,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,107,1
+2026-10-09,14,IAD,Cat X,West,Modset-01,AIT,Standard,101,2
+2026-10-09,14,IAD,Cat X,West,Modset-02,AIT,Standard,101,2
+2026-10-09,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,109,1
+2026-10-09,15,IAD,Cat X,West,Modset-01,AIT,Standard,105,3
+2026-10-09,15,IAD,Cat X,West,Modset-02,AIT,Standard,105,3
+2026-10-09,15,IAD,Cat X,West,Modset-03,AIT,Standard,105,3
+2026-10-09,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,169,1
+2026-10-09,16,IAD,Cat X,West,Modset-01,AIT,Standard,118,3
+2026-10-09,16,IAD,Cat X,West,Modset-02,AIT,Standard,118,3
+2026-10-09,16,IAD,Cat X,West,Modset-03,AIT,Standard,118,3
+2026-10-09,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,96,2
+2026-10-09,16,IAD,Cat X,West,Modset-06,WTMD,PreCheck,96,2
+2026-10-09,17,IAD,Cat X,West,Modset-01,AIT,Standard,101,3
+2026-10-09,17,IAD,Cat X,West,Modset-02,AIT,Standard,101,3
+2026-10-09,17,IAD,Cat X,West,Modset-03,AIT,Standard,101,3
+2026-10-09,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,163,1
+2026-10-09,18,IAD,Cat X,West,Modset-01,AIT,Standard,129,2
+2026-10-09,18,IAD,Cat X,West,Modset-02,AIT,Standard,129,2
+2026-10-09,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,138,1
+2026-10-09,19,IAD,Cat X,West,Modset-01,AIT,Standard,99,2
+2026-10-09,19,IAD,Cat X,West,Modset-02,AIT,Standard,99,2
+2026-10-09,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,107,1
+2026-10-09,20,IAD,Cat X,West,Modset-01,AIT,Standard,67,2
+2026-10-09,20,IAD,Cat X,West,Modset-02,AIT,Standard,67,2
+2026-10-09,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,72,1
+2026-10-09,21,IAD,Cat X,West,Modset-01,AIT,Standard,89,1
+2026-10-09,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,48,1
+2026-10-09,22,IAD,Cat X,West,Modset-01,AIT,Standard,50,1
+2026-10-09,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,27,1
+2026-10-10,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,60,1
+2026-10-10,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,32,1
+2026-10-10,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,88,3
+2026-10-10,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,88,3
+2026-10-10,5,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,88,3
+2026-10-10,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,143,1
+2026-10-10,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,105,3
+2026-10-10,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,105,3
+2026-10-10,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,105,3
+2026-10-10,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,169,1
+2026-10-10,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,93,3
+2026-10-10,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,93,3
+2026-10-10,7,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,93,3
+2026-10-10,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,151,1
+2026-10-10,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,111,2
+2026-10-10,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,111,2
+2026-10-10,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,120,1
+2026-10-10,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,74,2
+2026-10-10,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,74,2
+2026-10-10,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,79,1
+2026-10-10,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,128,1
+2026-10-10,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,69,1
+2026-10-10,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,70,2
+2026-10-10,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,70,2
+2026-10-10,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,75,1
+2026-10-10,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,93,2
+2026-10-10,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,93,2
+2026-10-10,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,100,1
+2026-10-10,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,85,2
+2026-10-10,13,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,85,2
+2026-10-10,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,92,1
+2026-10-10,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,162,1
+2026-10-10,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,94,1
+2026-10-10,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,120,2
+2026-10-10,15,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,120,2
+2026-10-10,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,129,1
+2026-10-10,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,89,3
+2026-10-10,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,89,3
+2026-10-10,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,89,3
+2026-10-10,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,143,1
+2026-10-10,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,91,3
+2026-10-10,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,91,3
+2026-10-10,17,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,91,3
+2026-10-10,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,147,1
+2026-10-10,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,98,2
+2026-10-10,18,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,98,2
+2026-10-10,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,106,1
+2026-10-10,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,75,2
+2026-10-10,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,75,2
+2026-10-10,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,81,1
+2026-10-10,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,101,1
+2026-10-10,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,54,1
+2026-10-10,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,74,1
+2026-10-10,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,40,1
+2026-10-10,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,44,1
+2026-10-10,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,23,1
+2026-10-10,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,50,1
+2026-10-10,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,27,1
+2026-10-10,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,93,2
+2026-10-10,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,93,2
+2026-10-10,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,101,1
+2026-10-10,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,111,2
+2026-10-10,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,111,2
+2026-10-10,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,120,1
+2026-10-10,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,101,2
+2026-10-10,7,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,101,2
+2026-10-10,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,109,1
+2026-10-10,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,74,2
+2026-10-10,8,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,74,2
+2026-10-10,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,80,1
+2026-10-10,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,121,1
+2026-10-10,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,65,1
+2026-10-10,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,102,1
+2026-10-10,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,55,1
+2026-10-10,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,105,1
+2026-10-10,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,57,1
+2026-10-10,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,124,1
+2026-10-10,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,67,1
+2026-10-10,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,119,1
+2026-10-10,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,64,1
+2026-10-10,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,2
+2026-10-10,14,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,67,2
+2026-10-10,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,72,1
+2026-10-10,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,157,1
+2026-10-10,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,94,1
+2026-10-10,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,97,2
+2026-10-10,16,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,97,2
+2026-10-10,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,105,1
+2026-10-10,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,90,2
+2026-10-10,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,90,2
+2026-10-10,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,97,1
+2026-10-10,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,86,2
+2026-10-10,18,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,86,2
+2026-10-10,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,92,1
+2026-10-10,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,119,1
+2026-10-10,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,64,1
+2026-10-10,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,85,1
+2026-10-10,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,46,1
+2026-10-10,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,58,1
+2026-10-10,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,31,1
+2026-10-10,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,35,1
+2026-10-10,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,19,1
+2026-10-10,4,DCA,Cat X,North,Modset-01,AIT,Standard,52,1
+2026-10-10,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,28,1
+2026-10-10,5,DCA,Cat X,North,Modset-01,AIT,Standard,116,2
+2026-10-10,5,DCA,Cat X,North,Modset-02,AIT,Standard,116,2
+2026-10-10,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,125,1
+2026-10-10,6,DCA,Cat X,North,Modset-01,AIT,Standard,161,1
+2026-10-10,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,139,1
+2026-10-10,7,DCA,Cat X,North,Modset-01,AIT,Standard,166,1
+2026-10-10,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,125,1
+2026-10-10,8,DCA,Cat X,North,Modset-01,AIT,Standard,106,2
+2026-10-10,8,DCA,Cat X,North,Modset-02,AIT,Standard,106,2
+2026-10-10,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,114,1
+2026-10-10,9,DCA,Cat X,North,Modset-01,AIT,Standard,127,1
+2026-10-10,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,68,1
+2026-10-10,10,DCA,Cat X,North,Modset-01,AIT,Standard,125,1
+2026-10-10,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,67,1
+2026-10-10,11,DCA,Cat X,North,Modset-01,AIT,Standard,69,2
+2026-10-10,11,DCA,Cat X,North,Modset-02,AIT,Standard,69,2
+2026-10-10,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,74,1
+2026-10-10,12,DCA,Cat X,North,Modset-01,AIT,Standard,82,2
+2026-10-10,12,DCA,Cat X,North,Modset-02,AIT,Standard,82,2
+2026-10-10,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,89,1
+2026-10-10,13,DCA,Cat X,North,Modset-01,AIT,Standard,71,2
+2026-10-10,13,DCA,Cat X,North,Modset-02,AIT,Standard,71,2
+2026-10-10,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,77,1
+2026-10-10,14,DCA,Cat X,North,Modset-01,AIT,Standard,76,2
+2026-10-10,14,DCA,Cat X,North,Modset-02,AIT,Standard,76,2
+2026-10-10,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,82,1
+2026-10-10,15,DCA,Cat X,North,Modset-01,AIT,Standard,105,2
+2026-10-10,15,DCA,Cat X,North,Modset-02,AIT,Standard,105,2
+2026-10-10,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,113,1
+2026-10-10,16,DCA,Cat X,North,Modset-01,AIT,Standard,117,2
+2026-10-10,16,DCA,Cat X,North,Modset-02,AIT,Standard,117,2
+2026-10-10,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,126,1
+2026-10-10,17,DCA,Cat X,North,Modset-01,AIT,Standard,107,2
+2026-10-10,17,DCA,Cat X,North,Modset-02,AIT,Standard,107,2
+2026-10-10,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,115,1
+2026-10-10,18,DCA,Cat X,North,Modset-01,AIT,Standard,89,2
+2026-10-10,18,DCA,Cat X,North,Modset-02,AIT,Standard,89,2
+2026-10-10,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,96,1
+2026-10-10,19,DCA,Cat X,North,Modset-01,AIT,Standard,74,2
+2026-10-10,19,DCA,Cat X,North,Modset-02,AIT,Standard,74,2
+2026-10-10,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,80,1
+2026-10-10,20,DCA,Cat X,North,Modset-01,AIT,Standard,94,1
+2026-10-10,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,51,1
+2026-10-10,21,DCA,Cat X,North,Modset-01,AIT,Standard,75,1
+2026-10-10,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,40,1
+2026-10-10,22,DCA,Cat X,North,Modset-01,AIT,Standard,38,1
+2026-10-10,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,20,1
+2026-10-10,4,DCA,Cat X,South,Modset-01,AIT,Standard,46,1
+2026-10-10,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,25,1
+2026-10-10,5,DCA,Cat X,South,Modset-01,AIT,Standard,103,2
+2026-10-10,5,DCA,Cat X,South,Modset-02,AIT,Standard,103,2
+2026-10-10,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,111,1
+2026-10-10,6,DCA,Cat X,South,Modset-01,AIT,Standard,89,3
+2026-10-10,6,DCA,Cat X,South,Modset-02,AIT,Standard,89,3
+2026-10-10,6,DCA,Cat X,South,Modset-03,AIT,Standard,89,3
+2026-10-10,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,144,1
+2026-10-10,7,DCA,Cat X,South,Modset-01,AIT,Standard,125,2
+2026-10-10,7,DCA,Cat X,South,Modset-02,AIT,Standard,125,2
+2026-10-10,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,135,1
+2026-10-10,8,DCA,Cat X,South,Modset-01,AIT,Standard,83,2
+2026-10-10,8,DCA,Cat X,South,Modset-02,AIT,Standard,83,2
+2026-10-10,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,90,1
+2026-10-10,9,DCA,Cat X,South,Modset-01,AIT,Standard,69,2
+2026-10-10,9,DCA,Cat X,South,Modset-02,AIT,Standard,69,2
+2026-10-10,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,74,1
+2026-10-10,10,DCA,Cat X,South,Modset-01,AIT,Standard,111,1
+2026-10-10,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,60,1
+2026-10-10,11,DCA,Cat X,South,Modset-01,AIT,Standard,129,1
+2026-10-10,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,69,1
+2026-10-10,12,DCA,Cat X,South,Modset-01,AIT,Standard,65,2
+2026-10-10,12,DCA,Cat X,South,Modset-02,AIT,Standard,65,2
+2026-10-10,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,70,1
+2026-10-10,13,DCA,Cat X,South,Modset-01,AIT,Standard,127,1
+2026-10-10,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,68,1
+2026-10-10,14,DCA,Cat X,South,Modset-01,AIT,Standard,72,2
+2026-10-10,14,DCA,Cat X,South,Modset-02,AIT,Standard,72,2
+2026-10-10,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,78,1
+2026-10-10,15,DCA,Cat X,South,Modset-01,AIT,Standard,110,2
+2026-10-10,15,DCA,Cat X,South,Modset-02,AIT,Standard,110,2
+2026-10-10,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,118,1
+2026-10-10,16,DCA,Cat X,South,Modset-01,AIT,Standard,111,2
+2026-10-10,16,DCA,Cat X,South,Modset-02,AIT,Standard,111,2
+2026-10-10,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,120,1
+2026-10-10,17,DCA,Cat X,South,Modset-01,AIT,Standard,103,2
+2026-10-10,17,DCA,Cat X,South,Modset-02,AIT,Standard,103,2
+2026-10-10,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,111,1
+2026-10-10,18,DCA,Cat X,South,Modset-01,AIT,Standard,89,2
+2026-10-10,18,DCA,Cat X,South,Modset-02,AIT,Standard,89,2
+2026-10-10,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,96,1
+2026-10-10,19,DCA,Cat X,South,Modset-01,AIT,Standard,125,1
+2026-10-10,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,67,1
+2026-10-10,20,DCA,Cat X,South,Modset-01,AIT,Standard,84,1
+2026-10-10,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,45,1
+2026-10-10,21,DCA,Cat X,South,Modset-01,AIT,Standard,67,1
+2026-10-10,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,36,1
+2026-10-10,22,DCA,Cat X,South,Modset-01,AIT,Standard,35,1
+2026-10-10,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,19,1
+2026-10-10,4,IAD,Cat X,East,Modset-01,AIT,Standard,67,1
+2026-10-10,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,36,1
+2026-10-10,5,IAD,Cat X,East,Modset-01,AIT,Standard,96,3
+2026-10-10,5,IAD,Cat X,East,Modset-02,AIT,Standard,96,3
+2026-10-10,5,IAD,Cat X,East,Modset-03,AIT,Standard,96,3
+2026-10-10,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,155,1
+2026-10-10,6,IAD,Cat X,East,Modset-01,AIT,Standard,116,3
+2026-10-10,6,IAD,Cat X,East,Modset-02,AIT,Standard,116,3
+2026-10-10,6,IAD,Cat X,East,Modset-03,AIT,Standard,116,3
+2026-10-10,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,94,2
+2026-10-10,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,94,2
+2026-10-10,7,IAD,Cat X,East,Modset-01,AIT,Standard,164,2
+2026-10-10,7,IAD,Cat X,East,Modset-02,AIT,Standard,164,2
+2026-10-10,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,177,1
+2026-10-10,8,IAD,Cat X,East,Modset-01,AIT,Standard,115,2
+2026-10-10,8,IAD,Cat X,East,Modset-02,AIT,Standard,115,2
+2026-10-10,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,124,1
+2026-10-10,9,IAD,Cat X,East,Modset-01,AIT,Standard,86,2
+2026-10-10,9,IAD,Cat X,East,Modset-02,AIT,Standard,86,2
+2026-10-10,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,92,1
+2026-10-10,10,IAD,Cat X,East,Modset-01,AIT,Standard,78,2
+2026-10-10,10,IAD,Cat X,East,Modset-02,AIT,Standard,78,2
+2026-10-10,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,84,1
+2026-10-10,11,IAD,Cat X,East,Modset-01,AIT,Standard,87,2
+2026-10-10,11,IAD,Cat X,East,Modset-02,AIT,Standard,87,2
+2026-10-10,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,94,1
+2026-10-10,12,IAD,Cat X,East,Modset-01,AIT,Standard,96,2
+2026-10-10,12,IAD,Cat X,East,Modset-02,AIT,Standard,96,2
+2026-10-10,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,104,1
+2026-10-10,13,IAD,Cat X,East,Modset-01,AIT,Standard,81,2
+2026-10-10,13,IAD,Cat X,East,Modset-02,AIT,Standard,81,2
+2026-10-10,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,88,1
+2026-10-10,14,IAD,Cat X,East,Modset-01,AIT,Standard,107,2
+2026-10-10,14,IAD,Cat X,East,Modset-02,AIT,Standard,107,2
+2026-10-10,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,115,1
+2026-10-10,15,IAD,Cat X,East,Modset-01,AIT,Standard,98,3
+2026-10-10,15,IAD,Cat X,East,Modset-02,AIT,Standard,98,3
+2026-10-10,15,IAD,Cat X,East,Modset-03,AIT,Standard,98,3
+2026-10-10,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,158,1
+2026-10-10,16,IAD,Cat X,East,Modset-01,AIT,Standard,159,2
+2026-10-10,16,IAD,Cat X,East,Modset-02,AIT,Standard,159,2
+2026-10-10,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,171,1
+2026-10-10,17,IAD,Cat X,East,Modset-01,AIT,Standard,109,3
+2026-10-10,17,IAD,Cat X,East,Modset-02,AIT,Standard,109,3
+2026-10-10,17,IAD,Cat X,East,Modset-03,AIT,Standard,109,3
+2026-10-10,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,176,1
+2026-10-10,18,IAD,Cat X,East,Modset-01,AIT,Standard,135,2
+2026-10-10,18,IAD,Cat X,East,Modset-02,AIT,Standard,135,2
+2026-10-10,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,145,1
+2026-10-10,19,IAD,Cat X,East,Modset-01,AIT,Standard,96,2
+2026-10-10,19,IAD,Cat X,East,Modset-02,AIT,Standard,96,2
+2026-10-10,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,103,1
+2026-10-10,20,IAD,Cat X,East,Modset-01,AIT,Standard,116,1
+2026-10-10,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,63,1
+2026-10-10,21,IAD,Cat X,East,Modset-01,AIT,Standard,83,1
+2026-10-10,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,45,1
+2026-10-10,22,IAD,Cat X,East,Modset-01,AIT,Standard,55,1
+2026-10-10,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,30,1
+2026-10-10,4,IAD,Cat X,West,Modset-01,AIT,Standard,55,1
+2026-10-10,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,29,1
+2026-10-10,5,IAD,Cat X,West,Modset-01,AIT,Standard,157,1
+2026-10-10,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,129,1
+2026-10-10,6,IAD,Cat X,West,Modset-01,AIT,Standard,103,3
+2026-10-10,6,IAD,Cat X,West,Modset-02,AIT,Standard,103,3
+2026-10-10,6,IAD,Cat X,West,Modset-03,AIT,Standard,103,3
+2026-10-10,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,166,1
+2026-10-10,7,IAD,Cat X,West,Modset-01,AIT,Standard,129,2
+2026-10-10,7,IAD,Cat X,West,Modset-02,AIT,Standard,129,2
+2026-10-10,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,139,1
+2026-10-10,8,IAD,Cat X,West,Modset-01,AIT,Standard,103,2
+2026-10-10,8,IAD,Cat X,West,Modset-02,AIT,Standard,103,2
+2026-10-10,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,111,1
+2026-10-10,9,IAD,Cat X,West,Modset-01,AIT,Standard,69,2
+2026-10-10,9,IAD,Cat X,West,Modset-02,AIT,Standard,69,2
+2026-10-10,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,75,1
+2026-10-10,10,IAD,Cat X,West,Modset-01,AIT,Standard,130,1
+2026-10-10,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,70,1
+2026-10-10,11,IAD,Cat X,West,Modset-01,AIT,Standard,73,2
+2026-10-10,11,IAD,Cat X,West,Modset-02,AIT,Standard,73,2
+2026-10-10,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,79,1
+2026-10-10,12,IAD,Cat X,West,Modset-01,AIT,Standard,75,2
+2026-10-10,12,IAD,Cat X,West,Modset-02,AIT,Standard,75,2
+2026-10-10,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,81,1
+2026-10-10,13,IAD,Cat X,West,Modset-01,AIT,Standard,69,2
+2026-10-10,13,IAD,Cat X,West,Modset-02,AIT,Standard,69,2
+2026-10-10,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,75,1
+2026-10-10,14,IAD,Cat X,West,Modset-01,AIT,Standard,92,2
+2026-10-10,14,IAD,Cat X,West,Modset-02,AIT,Standard,92,2
+2026-10-10,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,99,1
+2026-10-10,15,IAD,Cat X,West,Modset-01,AIT,Standard,125,2
+2026-10-10,15,IAD,Cat X,West,Modset-02,AIT,Standard,125,2
+2026-10-10,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,134,1
+2026-10-10,16,IAD,Cat X,West,Modset-01,AIT,Standard,127,2
+2026-10-10,16,IAD,Cat X,West,Modset-02,AIT,Standard,127,2
+2026-10-10,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,137,1
+2026-10-10,17,IAD,Cat X,West,Modset-01,AIT,Standard,129,2
+2026-10-10,17,IAD,Cat X,West,Modset-02,AIT,Standard,129,2
+2026-10-10,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,139,1
+2026-10-10,18,IAD,Cat X,West,Modset-01,AIT,Standard,104,2
+2026-10-10,18,IAD,Cat X,West,Modset-02,AIT,Standard,104,2
+2026-10-10,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,112,1
+2026-10-10,19,IAD,Cat X,West,Modset-01,AIT,Standard,130,1
+2026-10-10,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,70,1
+2026-10-10,20,IAD,Cat X,West,Modset-01,AIT,Standard,102,1
+2026-10-10,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,55,1
+2026-10-10,21,IAD,Cat X,West,Modset-01,AIT,Standard,77,1
+2026-10-10,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,42,1
+2026-10-10,22,IAD,Cat X,West,Modset-01,AIT,Standard,41,1
+2026-10-10,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,22,1
+2026-10-11,4,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,79,1
+2026-10-11,4,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,43,1
+2026-10-11,5,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,101,3
+2026-10-11,5,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,101,3
+2026-10-11,5,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,101,3
+2026-10-11,5,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,164,1
+2026-10-11,6,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,116,3
+2026-10-11,6,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,116,3
+2026-10-11,6,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,116,3
+2026-10-11,6,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,94,2
+2026-10-11,6,BWI,Cat X,Checkpoint A,Modset-06,WTMD,PreCheck,94,2
+2026-10-11,7,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,105,3
+2026-10-11,7,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,105,3
+2026-10-11,7,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,105,3
+2026-10-11,7,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,170,1
+2026-10-11,8,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,90,3
+2026-10-11,8,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,90,3
+2026-10-11,8,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,90,3
+2026-10-11,8,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,145,1
+2026-10-11,9,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,99,2
+2026-10-11,9,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,99,2
+2026-10-11,9,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,107,1
+2026-10-11,10,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,88,2
+2026-10-11,10,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,88,2
+2026-10-11,10,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,95,1
+2026-10-11,11,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,87,2
+2026-10-11,11,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,87,2
+2026-10-11,11,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,94,1
+2026-10-11,12,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,93,2
+2026-10-11,12,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,93,2
+2026-10-11,12,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,100,1
+2026-10-11,13,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,101,2
+2026-10-11,13,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,101,2
+2026-10-11,13,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,109,1
+2026-10-11,14,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,106,2
+2026-10-11,14,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,106,2
+2026-10-11,14,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,114,1
+2026-10-11,15,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,99,3
+2026-10-11,15,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,99,3
+2026-10-11,15,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,99,3
+2026-10-11,15,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,160,1
+2026-10-11,16,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,102,3
+2026-10-11,16,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,102,3
+2026-10-11,16,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,102,3
+2026-10-11,16,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,164,1
+2026-10-11,17,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,103,3
+2026-10-11,17,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,103,3
+2026-10-11,17,BWI,Cat X,Checkpoint A,Modset-03,AIT,Standard,103,3
+2026-10-11,17,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,166,1
+2026-10-11,18,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,117,2
+2026-10-11,18,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,117,2
+2026-10-11,18,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,127,1
+2026-10-11,19,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,95,2
+2026-10-11,19,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,95,2
+2026-10-11,19,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,102,1
+2026-10-11,20,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,66,2
+2026-10-11,20,BWI,Cat X,Checkpoint A,Modset-02,AIT,Standard,66,2
+2026-10-11,20,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,71,1
+2026-10-11,21,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,92,1
+2026-10-11,21,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,49,1
+2026-10-11,22,BWI,Cat X,Checkpoint A,Modset-01,AIT,Standard,56,1
+2026-10-11,22,BWI,Cat X,Checkpoint A,Modset-05,WTMD,PreCheck,30,1
+2026-10-11,4,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,57,1
+2026-10-11,4,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,31,1
+2026-10-11,5,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,105,2
+2026-10-11,5,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,105,2
+2026-10-11,5,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,113,1
+2026-10-11,6,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,102,3
+2026-10-11,6,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,102,3
+2026-10-11,6,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,102,3
+2026-10-11,6,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,164,1
+2026-10-11,7,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,125,2
+2026-10-11,7,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,125,2
+2026-10-11,7,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,135,1
+2026-10-11,8,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,96,2
+2026-10-11,8,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,96,2
+2026-10-11,8,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,103,1
+2026-10-11,9,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,2
+2026-10-11,9,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,67,2
+2026-10-11,9,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,72,1
+2026-10-11,10,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,117,1
+2026-10-11,10,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,63,1
+2026-10-11,11,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,70,2
+2026-10-11,11,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,70,2
+2026-10-11,11,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,75,1
+2026-10-11,12,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,84,2
+2026-10-11,12,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,84,2
+2026-10-11,12,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,90,1
+2026-10-11,13,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,68,2
+2026-10-11,13,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,68,2
+2026-10-11,13,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,73,1
+2026-10-11,14,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,83,2
+2026-10-11,14,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,83,2
+2026-10-11,14,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,89,1
+2026-10-11,15,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,114,2
+2026-10-11,15,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,114,2
+2026-10-11,15,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,123,1
+2026-10-11,16,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,91,3
+2026-10-11,16,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,91,3
+2026-10-11,16,BWI,Cat X,Checkpoint B,Modset-03,AIT,Standard,91,3
+2026-10-11,16,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,147,1
+2026-10-11,17,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,115,2
+2026-10-11,17,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,115,2
+2026-10-11,17,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,123,1
+2026-10-11,18,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,101,2
+2026-10-11,18,BWI,Cat X,Checkpoint B,Modset-02,AIT,Standard,101,2
+2026-10-11,18,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,109,1
+2026-10-11,19,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,128,1
+2026-10-11,19,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,69,1
+2026-10-11,20,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,104,1
+2026-10-11,20,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,56,1
+2026-10-11,21,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,67,1
+2026-10-11,21,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,36,1
+2026-10-11,22,BWI,Cat X,Checkpoint B,Modset-01,AIT,Standard,42,1
+2026-10-11,22,BWI,Cat X,Checkpoint B,Modset-05,WTMD,PreCheck,23,1
+2026-10-11,4,DCA,Cat X,North,Modset-01,AIT,Standard,66,1
+2026-10-11,4,DCA,Cat X,North,Modset-05,WTMD,PreCheck,36,1
+2026-10-11,5,DCA,Cat X,North,Modset-01,AIT,Standard,94,3
+2026-10-11,5,DCA,Cat X,North,Modset-02,AIT,Standard,94,3
+2026-10-11,5,DCA,Cat X,North,Modset-03,AIT,Standard,94,3
+2026-10-11,5,DCA,Cat X,North,Modset-05,WTMD,PreCheck,153,1
+2026-10-11,6,DCA,Cat X,North,Modset-01,AIT,Standard,113,3
+2026-10-11,6,DCA,Cat X,North,Modset-02,AIT,Standard,113,3
+2026-10-11,6,DCA,Cat X,North,Modset-03,AIT,Standard,113,3
+2026-10-11,6,DCA,Cat X,North,Modset-05,WTMD,PreCheck,183,1
+2026-10-11,7,DCA,Cat X,North,Modset-01,AIT,Standard,105,3
+2026-10-11,7,DCA,Cat X,North,Modset-02,AIT,Standard,105,3
+2026-10-11,7,DCA,Cat X,North,Modset-03,AIT,Standard,105,3
+2026-10-11,7,DCA,Cat X,North,Modset-05,WTMD,PreCheck,169,1
+2026-10-11,8,DCA,Cat X,North,Modset-01,AIT,Standard,110,2
+2026-10-11,8,DCA,Cat X,North,Modset-02,AIT,Standard,110,2
+2026-10-11,8,DCA,Cat X,North,Modset-05,WTMD,PreCheck,118,1
+2026-10-11,9,DCA,Cat X,North,Modset-01,AIT,Standard,86,2
+2026-10-11,9,DCA,Cat X,North,Modset-02,AIT,Standard,86,2
+2026-10-11,9,DCA,Cat X,North,Modset-05,WTMD,PreCheck,93,1
+2026-10-11,10,DCA,Cat X,North,Modset-01,AIT,Standard,73,2
+2026-10-11,10,DCA,Cat X,North,Modset-02,AIT,Standard,73,2
+2026-10-11,10,DCA,Cat X,North,Modset-05,WTMD,PreCheck,79,1
+2026-10-11,11,DCA,Cat X,North,Modset-01,AIT,Standard,77,2
+2026-10-11,11,DCA,Cat X,North,Modset-02,AIT,Standard,77,2
+2026-10-11,11,DCA,Cat X,North,Modset-05,WTMD,PreCheck,83,1
+2026-10-11,12,DCA,Cat X,North,Modset-01,AIT,Standard,95,2
+2026-10-11,12,DCA,Cat X,North,Modset-02,AIT,Standard,95,2
+2026-10-11,12,DCA,Cat X,North,Modset-05,WTMD,PreCheck,102,1
+2026-10-11,13,DCA,Cat X,North,Modset-01,AIT,Standard,83,2
+2026-10-11,13,DCA,Cat X,North,Modset-02,AIT,Standard,83,2
+2026-10-11,13,DCA,Cat X,North,Modset-05,WTMD,PreCheck,89,1
+2026-10-11,14,DCA,Cat X,North,Modset-01,AIT,Standard,105,2
+2026-10-11,14,DCA,Cat X,North,Modset-02,AIT,Standard,105,2
+2026-10-11,14,DCA,Cat X,North,Modset-05,WTMD,PreCheck,113,1
+2026-10-11,15,DCA,Cat X,North,Modset-01,AIT,Standard,126,2
+2026-10-11,15,DCA,Cat X,North,Modset-02,AIT,Standard,126,2
+2026-10-11,15,DCA,Cat X,North,Modset-05,WTMD,PreCheck,136,1
+2026-10-11,16,DCA,Cat X,North,Modset-01,AIT,Standard,101,3
+2026-10-11,16,DCA,Cat X,North,Modset-02,AIT,Standard,101,3
+2026-10-11,16,DCA,Cat X,North,Modset-03,AIT,Standard,101,3
+2026-10-11,16,DCA,Cat X,North,Modset-05,WTMD,PreCheck,163,1
+2026-10-11,17,DCA,Cat X,North,Modset-01,AIT,Standard,97,3
+2026-10-11,17,DCA,Cat X,North,Modset-02,AIT,Standard,97,3
+2026-10-11,17,DCA,Cat X,North,Modset-03,AIT,Standard,97,3
+2026-10-11,17,DCA,Cat X,North,Modset-05,WTMD,PreCheck,156,1
+2026-10-11,18,DCA,Cat X,North,Modset-01,AIT,Standard,108,2
+2026-10-11,18,DCA,Cat X,North,Modset-02,AIT,Standard,108,2
+2026-10-11,18,DCA,Cat X,North,Modset-05,WTMD,PreCheck,116,1
+2026-10-11,19,DCA,Cat X,North,Modset-01,AIT,Standard,80,2
+2026-10-11,19,DCA,Cat X,North,Modset-02,AIT,Standard,80,2
+2026-10-11,19,DCA,Cat X,North,Modset-05,WTMD,PreCheck,87,1
+2026-10-11,20,DCA,Cat X,North,Modset-01,AIT,Standard,114,1
+2026-10-11,20,DCA,Cat X,North,Modset-05,WTMD,PreCheck,61,1
+2026-10-11,21,DCA,Cat X,North,Modset-01,AIT,Standard,86,1
+2026-10-11,21,DCA,Cat X,North,Modset-05,WTMD,PreCheck,46,1
+2026-10-11,22,DCA,Cat X,North,Modset-01,AIT,Standard,50,1
+2026-10-11,22,DCA,Cat X,North,Modset-05,WTMD,PreCheck,27,1
+2026-10-11,4,DCA,Cat X,South,Modset-01,AIT,Standard,62,1
+2026-10-11,4,DCA,Cat X,South,Modset-05,WTMD,PreCheck,33,1
+2026-10-11,5,DCA,Cat X,South,Modset-01,AIT,Standard,89,3
+2026-10-11,5,DCA,Cat X,South,Modset-02,AIT,Standard,89,3
+2026-10-11,5,DCA,Cat X,South,Modset-03,AIT,Standard,89,3
+2026-10-11,5,DCA,Cat X,South,Modset-05,WTMD,PreCheck,143,1
+2026-10-11,6,DCA,Cat X,South,Modset-01,AIT,Standard,160,2
+2026-10-11,6,DCA,Cat X,South,Modset-02,AIT,Standard,160,2
+2026-10-11,6,DCA,Cat X,South,Modset-05,WTMD,PreCheck,172,1
+2026-10-11,7,DCA,Cat X,South,Modset-01,AIT,Standard,95,3
+2026-10-11,7,DCA,Cat X,South,Modset-02,AIT,Standard,95,3
+2026-10-11,7,DCA,Cat X,South,Modset-03,AIT,Standard,95,3
+2026-10-11,7,DCA,Cat X,South,Modset-05,WTMD,PreCheck,154,1
+2026-10-11,8,DCA,Cat X,South,Modset-01,AIT,Standard,100,2
+2026-10-11,8,DCA,Cat X,South,Modset-02,AIT,Standard,100,2
+2026-10-11,8,DCA,Cat X,South,Modset-05,WTMD,PreCheck,108,1
+2026-10-11,9,DCA,Cat X,South,Modset-01,AIT,Standard,75,2
+2026-10-11,9,DCA,Cat X,South,Modset-02,AIT,Standard,75,2
+2026-10-11,9,DCA,Cat X,South,Modset-05,WTMD,PreCheck,81,1
+2026-10-11,10,DCA,Cat X,South,Modset-01,AIT,Standard,66,2
+2026-10-11,10,DCA,Cat X,South,Modset-02,AIT,Standard,66,2
+2026-10-11,10,DCA,Cat X,South,Modset-05,WTMD,PreCheck,71,1
+2026-10-11,11,DCA,Cat X,South,Modset-01,AIT,Standard,79,2
+2026-10-11,11,DCA,Cat X,South,Modset-02,AIT,Standard,79,2
+2026-10-11,11,DCA,Cat X,South,Modset-05,WTMD,PreCheck,85,1
+2026-10-11,12,DCA,Cat X,South,Modset-01,AIT,Standard,82,2
+2026-10-11,12,DCA,Cat X,South,Modset-02,AIT,Standard,82,2
+2026-10-11,12,DCA,Cat X,South,Modset-05,WTMD,PreCheck,88,1
+2026-10-11,13,DCA,Cat X,South,Modset-01,AIT,Standard,70,2
+2026-10-11,13,DCA,Cat X,South,Modset-02,AIT,Standard,70,2
+2026-10-11,13,DCA,Cat X,South,Modset-05,WTMD,PreCheck,76,1
+2026-10-11,14,DCA,Cat X,South,Modset-01,AIT,Standard,83,2
+2026-10-11,14,DCA,Cat X,South,Modset-02,AIT,Standard,83,2
+2026-10-11,14,DCA,Cat X,South,Modset-05,WTMD,PreCheck,89,1
+2026-10-11,15,DCA,Cat X,South,Modset-01,AIT,Standard,88,3
+2026-10-11,15,DCA,Cat X,South,Modset-02,AIT,Standard,88,3
+2026-10-11,15,DCA,Cat X,South,Modset-03,AIT,Standard,88,3
+2026-10-11,15,DCA,Cat X,South,Modset-05,WTMD,PreCheck,141,1
+2026-10-11,16,DCA,Cat X,South,Modset-01,AIT,Standard,96,3
+2026-10-11,16,DCA,Cat X,South,Modset-02,AIT,Standard,96,3
+2026-10-11,16,DCA,Cat X,South,Modset-03,AIT,Standard,96,3
+2026-10-11,16,DCA,Cat X,South,Modset-05,WTMD,PreCheck,154,1
+2026-10-11,17,DCA,Cat X,South,Modset-01,AIT,Standard,128,2
+2026-10-11,17,DCA,Cat X,South,Modset-02,AIT,Standard,128,2
+2026-10-11,17,DCA,Cat X,South,Modset-05,WTMD,PreCheck,138,1
+2026-10-11,18,DCA,Cat X,South,Modset-01,AIT,Standard,113,2
+2026-10-11,18,DCA,Cat X,South,Modset-02,AIT,Standard,113,2
+2026-10-11,18,DCA,Cat X,South,Modset-05,WTMD,PreCheck,122,1
+2026-10-11,19,DCA,Cat X,South,Modset-01,AIT,Standard,75,2
+2026-10-11,19,DCA,Cat X,South,Modset-02,AIT,Standard,75,2
+2026-10-11,19,DCA,Cat X,South,Modset-05,WTMD,PreCheck,81,1
+2026-10-11,20,DCA,Cat X,South,Modset-01,AIT,Standard,113,1
+2026-10-11,20,DCA,Cat X,South,Modset-05,WTMD,PreCheck,61,1
+2026-10-11,21,DCA,Cat X,South,Modset-01,AIT,Standard,82,1
+2026-10-11,21,DCA,Cat X,South,Modset-05,WTMD,PreCheck,44,1
+2026-10-11,22,DCA,Cat X,South,Modset-01,AIT,Standard,47,1
+2026-10-11,22,DCA,Cat X,South,Modset-05,WTMD,PreCheck,25,1
+2026-10-11,4,IAD,Cat X,East,Modset-01,AIT,Standard,91,1
+2026-10-11,4,IAD,Cat X,East,Modset-05,WTMD,PreCheck,49,1
+2026-10-11,5,IAD,Cat X,East,Modset-01,AIT,Standard,106,3
+2026-10-11,5,IAD,Cat X,East,Modset-02,AIT,Standard,106,3
+2026-10-11,5,IAD,Cat X,East,Modset-03,AIT,Standard,106,3
+2026-10-11,5,IAD,Cat X,East,Modset-05,WTMD,PreCheck,172,1
+2026-10-11,6,IAD,Cat X,East,Modset-01,AIT,Standard,114,4
+2026-10-11,6,IAD,Cat X,East,Modset-02,AIT,Standard,114,4
+2026-10-11,6,IAD,Cat X,East,Modset-03,AIT,Standard,114,4
+2026-10-11,6,IAD,Cat X,East,Modset-04,WTMD,Standard,114,4
+2026-10-11,6,IAD,Cat X,East,Modset-05,WTMD,PreCheck,123,2
+2026-10-11,6,IAD,Cat X,East,Modset-06,WTMD,PreCheck,123,2
+2026-10-11,7,IAD,Cat X,East,Modset-01,AIT,Standard,129,3
+2026-10-11,7,IAD,Cat X,East,Modset-02,AIT,Standard,129,3
+2026-10-11,7,IAD,Cat X,East,Modset-03,AIT,Standard,129,3
+2026-10-11,7,IAD,Cat X,East,Modset-05,WTMD,PreCheck,105,2
+2026-10-11,7,IAD,Cat X,East,Modset-06,WTMD,PreCheck,105,2
+2026-10-11,8,IAD,Cat X,East,Modset-01,AIT,Standard,97,3
+2026-10-11,8,IAD,Cat X,East,Modset-02,AIT,Standard,97,3
+2026-10-11,8,IAD,Cat X,East,Modset-03,AIT,Standard,97,3
+2026-10-11,8,IAD,Cat X,East,Modset-05,WTMD,PreCheck,156,1
+2026-10-11,9,IAD,Cat X,East,Modset-01,AIT,Standard,113,2
+2026-10-11,9,IAD,Cat X,East,Modset-02,AIT,Standard,113,2
+2026-10-11,9,IAD,Cat X,East,Modset-05,WTMD,PreCheck,122,1
+2026-10-11,10,IAD,Cat X,East,Modset-01,AIT,Standard,94,2
+2026-10-11,10,IAD,Cat X,East,Modset-02,AIT,Standard,94,2
+2026-10-11,10,IAD,Cat X,East,Modset-05,WTMD,PreCheck,101,1
+2026-10-11,11,IAD,Cat X,East,Modset-01,AIT,Standard,108,2
+2026-10-11,11,IAD,Cat X,East,Modset-02,AIT,Standard,108,2
+2026-10-11,11,IAD,Cat X,East,Modset-05,WTMD,PreCheck,117,1
+2026-10-11,12,IAD,Cat X,East,Modset-01,AIT,Standard,122,2
+2026-10-11,12,IAD,Cat X,East,Modset-02,AIT,Standard,122,2
+2026-10-11,12,IAD,Cat X,East,Modset-05,WTMD,PreCheck,131,1
+2026-10-11,13,IAD,Cat X,East,Modset-01,AIT,Standard,112,2
+2026-10-11,13,IAD,Cat X,East,Modset-02,AIT,Standard,112,2
+2026-10-11,13,IAD,Cat X,East,Modset-05,WTMD,PreCheck,121,1
+2026-10-11,14,IAD,Cat X,East,Modset-01,AIT,Standard,118,2
+2026-10-11,14,IAD,Cat X,East,Modset-02,AIT,Standard,118,2
+2026-10-11,14,IAD,Cat X,East,Modset-05,WTMD,PreCheck,127,1
+2026-10-11,15,IAD,Cat X,East,Modset-01,AIT,Standard,118,3
+2026-10-11,15,IAD,Cat X,East,Modset-02,AIT,Standard,118,3
+2026-10-11,15,IAD,Cat X,East,Modset-03,AIT,Standard,118,3
+2026-10-11,15,IAD,Cat X,East,Modset-05,WTMD,PreCheck,95,2
+2026-10-11,15,IAD,Cat X,East,Modset-06,WTMD,PreCheck,95,2
+2026-10-11,16,IAD,Cat X,East,Modset-01,AIT,Standard,129,3
+2026-10-11,16,IAD,Cat X,East,Modset-02,AIT,Standard,129,3
+2026-10-11,16,IAD,Cat X,East,Modset-03,AIT,Standard,129,3
+2026-10-11,16,IAD,Cat X,East,Modset-05,WTMD,PreCheck,104,2
+2026-10-11,16,IAD,Cat X,East,Modset-06,WTMD,PreCheck,104,2
+2026-10-11,17,IAD,Cat X,East,Modset-01,AIT,Standard,117,3
+2026-10-11,17,IAD,Cat X,East,Modset-02,AIT,Standard,117,3
+2026-10-11,17,IAD,Cat X,East,Modset-03,AIT,Standard,117,3
+2026-10-11,17,IAD,Cat X,East,Modset-05,WTMD,PreCheck,189,1
+2026-10-11,18,IAD,Cat X,East,Modset-01,AIT,Standard,90,3
+2026-10-11,18,IAD,Cat X,East,Modset-02,AIT,Standard,90,3
+2026-10-11,18,IAD,Cat X,East,Modset-03,AIT,Standard,90,3
+2026-10-11,18,IAD,Cat X,East,Modset-05,WTMD,PreCheck,145,1
+2026-10-11,19,IAD,Cat X,East,Modset-01,AIT,Standard,112,2
+2026-10-11,19,IAD,Cat X,East,Modset-02,AIT,Standard,112,2
+2026-10-11,19,IAD,Cat X,East,Modset-05,WTMD,PreCheck,120,1
+2026-10-11,20,IAD,Cat X,East,Modset-01,AIT,Standard,77,2
+2026-10-11,20,IAD,Cat X,East,Modset-02,AIT,Standard,77,2
+2026-10-11,20,IAD,Cat X,East,Modset-05,WTMD,PreCheck,83,1
+2026-10-11,21,IAD,Cat X,East,Modset-01,AIT,Standard,99,1
+2026-10-11,21,IAD,Cat X,East,Modset-05,WTMD,PreCheck,53,1
+2026-10-11,22,IAD,Cat X,East,Modset-01,AIT,Standard,58,1
+2026-10-11,22,IAD,Cat X,East,Modset-05,WTMD,PreCheck,31,1
+2026-10-11,4,IAD,Cat X,West,Modset-01,AIT,Standard,67,1
+2026-10-11,4,IAD,Cat X,West,Modset-05,WTMD,PreCheck,36,1
+2026-10-11,5,IAD,Cat X,West,Modset-01,AIT,Standard,87,3
+2026-10-11,5,IAD,Cat X,West,Modset-02,AIT,Standard,87,3
+2026-10-11,5,IAD,Cat X,West,Modset-03,AIT,Standard,87,3
+2026-10-11,5,IAD,Cat X,West,Modset-05,WTMD,PreCheck,140,1
+2026-10-11,6,IAD,Cat X,West,Modset-01,AIT,Standard,116,3
+2026-10-11,6,IAD,Cat X,West,Modset-02,AIT,Standard,116,3
+2026-10-11,6,IAD,Cat X,West,Modset-03,AIT,Standard,116,3
+2026-10-11,6,IAD,Cat X,West,Modset-05,WTMD,PreCheck,93,2
+2026-10-11,6,IAD,Cat X,West,Modset-06,WTMD,PreCheck,93,2
+2026-10-11,7,IAD,Cat X,West,Modset-01,AIT,Standard,114,3
+2026-10-11,7,IAD,Cat X,West,Modset-02,AIT,Standard,114,3
+2026-10-11,7,IAD,Cat X,West,Modset-03,AIT,Standard,114,3
+2026-10-11,7,IAD,Cat X,West,Modset-05,WTMD,PreCheck,183,1
+2026-10-11,8,IAD,Cat X,West,Modset-01,AIT,Standard,121,2
+2026-10-11,8,IAD,Cat X,West,Modset-02,AIT,Standard,121,2
+2026-10-11,8,IAD,Cat X,West,Modset-05,WTMD,PreCheck,131,1
+2026-10-11,9,IAD,Cat X,West,Modset-01,AIT,Standard,87,2
+2026-10-11,9,IAD,Cat X,West,Modset-02,AIT,Standard,87,2
+2026-10-11,9,IAD,Cat X,West,Modset-05,WTMD,PreCheck,93,1
+2026-10-11,10,IAD,Cat X,West,Modset-01,AIT,Standard,72,2
+2026-10-11,10,IAD,Cat X,West,Modset-02,AIT,Standard,72,2
+2026-10-11,10,IAD,Cat X,West,Modset-05,WTMD,PreCheck,77,1
+2026-10-11,11,IAD,Cat X,West,Modset-01,AIT,Standard,93,2
+2026-10-11,11,IAD,Cat X,West,Modset-02,AIT,Standard,93,2
+2026-10-11,11,IAD,Cat X,West,Modset-05,WTMD,PreCheck,101,1
+2026-10-11,12,IAD,Cat X,West,Modset-01,AIT,Standard,88,2
+2026-10-11,12,IAD,Cat X,West,Modset-02,AIT,Standard,88,2
+2026-10-11,12,IAD,Cat X,West,Modset-05,WTMD,PreCheck,94,1
+2026-10-11,13,IAD,Cat X,West,Modset-01,AIT,Standard,78,2
+2026-10-11,13,IAD,Cat X,West,Modset-02,AIT,Standard,78,2
+2026-10-11,13,IAD,Cat X,West,Modset-05,WTMD,PreCheck,84,1
+2026-10-11,14,IAD,Cat X,West,Modset-01,AIT,Standard,97,2
+2026-10-11,14,IAD,Cat X,West,Modset-02,AIT,Standard,97,2
+2026-10-11,14,IAD,Cat X,West,Modset-05,WTMD,PreCheck,104,1
+2026-10-11,15,IAD,Cat X,West,Modset-01,AIT,Standard,99,3
+2026-10-11,15,IAD,Cat X,West,Modset-02,AIT,Standard,99,3
+2026-10-11,15,IAD,Cat X,West,Modset-03,AIT,Standard,99,3
+2026-10-11,15,IAD,Cat X,West,Modset-05,WTMD,PreCheck,161,1
+2026-10-11,16,IAD,Cat X,West,Modset-01,AIT,Standard,105,3
+2026-10-11,16,IAD,Cat X,West,Modset-02,AIT,Standard,105,3
+2026-10-11,16,IAD,Cat X,West,Modset-03,AIT,Standard,105,3
+2026-10-11,16,IAD,Cat X,West,Modset-05,WTMD,PreCheck,169,1
+2026-10-11,17,IAD,Cat X,West,Modset-01,AIT,Standard,89,3
+2026-10-11,17,IAD,Cat X,West,Modset-02,AIT,Standard,89,3
+2026-10-11,17,IAD,Cat X,West,Modset-03,AIT,Standard,89,3
+2026-10-11,17,IAD,Cat X,West,Modset-05,WTMD,PreCheck,144,1
+2026-10-11,18,IAD,Cat X,West,Modset-01,AIT,Standard,116,2
+2026-10-11,18,IAD,Cat X,West,Modset-02,AIT,Standard,116,2
+2026-10-11,18,IAD,Cat X,West,Modset-05,WTMD,PreCheck,125,1
+2026-10-11,19,IAD,Cat X,West,Modset-01,AIT,Standard,93,2
+2026-10-11,19,IAD,Cat X,West,Modset-02,AIT,Standard,93,2
+2026-10-11,19,IAD,Cat X,West,Modset-05,WTMD,PreCheck,100,1
+2026-10-11,20,IAD,Cat X,West,Modset-01,AIT,Standard,118,1
+2026-10-11,20,IAD,Cat X,West,Modset-05,WTMD,PreCheck,64,1
+2026-10-11,21,IAD,Cat X,West,Modset-01,AIT,Standard,81,1
+2026-10-11,21,IAD,Cat X,West,Modset-05,WTMD,PreCheck,44,1
+2026-10-11,22,IAD,Cat X,West,Modset-01,AIT,Standard,52,1
+2026-10-11,22,IAD,Cat X,West,Modset-05,WTMD,PreCheck,28,1

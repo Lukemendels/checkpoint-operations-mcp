@@ -1,0 +1,13 @@
+airport_code,checkpoint_id,installed_modsets_wtmd,installed_modsets_ait,fixed_posts,open_hour,close_hour
+ATL,Checkpoint A,2,6,3,4,23
+ATL,Checkpoint B,2,6,3,4,23
+ORD,North,2,6,3,4,23
+ORD,South,2,6,3,4,23
+LAX,North,2,6,3,4,23
+LAX,South,2,6,3,4,23
+IAD,Checkpoint A,2,6,3,4,23
+IAD,Checkpoint B,2,6,3,4,23
+DCA,North,2,6,3,4,23
+DCA,South,2,6,3,4,23
+BWI,Checkpoint A,2,6,3,4,23
+BWI,Checkpoint B,2,6,3,4,23

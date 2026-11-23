@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.Lukemendels/checkpoint-operations-si",
+  "description": "Historical public TSA screened throughput and separately labeled synthetic checkpoint simulations.",
+  "repository": {
+    "url": "https://github.com/Lukemendels/checkpoint-operations-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0"
+}

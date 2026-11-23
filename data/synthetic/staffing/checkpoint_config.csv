@@ -1,0 +1,7 @@
+airport_code,checkpoint_id,installed_modsets_wtmd,installed_modsets_ait,fixed_posts,open_hour,close_hour
+BWI,Checkpoint A,3,3,3,4,22
+BWI,Checkpoint B,3,3,3,4,22
+DCA,North,3,3,3,4,22
+DCA,South,3,3,3,4,22
+IAD,East,3,3,3,4,22
+IAD,West,3,3,3,4,22
